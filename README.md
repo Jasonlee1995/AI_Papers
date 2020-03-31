@@ -1,7 +1,7 @@
 # Computer Vision - Object Detection
 
 ## 1. Dataset
-- Open Images Dataset (OID 2018~2020) [[link]](https://opensource.google/projects/open-images-dataset)
+- Open Images Dataset (OID 2018~) [[link]](https://opensource.google/projects/open-images-dataset)
 - MS-COCO (2014, 2015, 2017) [[link]](http://cocodataset.org/#home)
 - ImageNet Large Scale Visual Recognition Challenge (ILSVRC 2010~2017) [[link]](http://www.image-net.org/challenges/LSVRC/)
 - Pascal VOC (VOC2005~VOC2012) [[link]](http://host.robots.ox.ac.uk/pascal/VOC/)
