@@ -7,6 +7,7 @@
 ## 1. Paper List
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2020|NIPS|RandAugment: Practical Automated Data Augmentation with a Reduced Search Space|[Paper](https://arxiv.org/pdf/1909.13719.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/7)|
 |2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/pdf/1805.09501.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
 |2019|NIPS|Fast AutoAugment|[Paper](https://arxiv.org/pdf/1905.00397.pdf), [Official Code](https://github.com/kakaobrain/fast-autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/6)|
 |2018|CVPR|Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation|[Paper](https://arxiv.org/abs/1805.09707), [Official Code](https://github.com/zhiqiangdon/pose-adv-aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/3)|
