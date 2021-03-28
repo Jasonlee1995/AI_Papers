@@ -12,7 +12,7 @@
 |2019|NIPS|Fast AutoAugment|[Paper](https://arxiv.org/pdf/1905.00397.pdf), [Official Code](https://github.com/kakaobrain/fast-autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/6)|
 |2018|CVPR|Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation|[Paper](https://arxiv.org/abs/1805.09707), [Official Code](https://github.com/zhiqiangdon/pose-adv-aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/3)|
 |2018|ECCV|Modeling Visual Context is Key to Augmenting Object Detection Datasets|[Paper](https://arxiv.org/pdf/1807.07428.pdf), [Official Code](https://github.com/dvornikita/context_aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/4)|
-|2017|ICLR|The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables|[Paper](https://arxiv.org/abs/1611.00712), [Summary](summary link)|
+|2017|ICLR|The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables|[Paper](https://arxiv.org/abs/1611.00712), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/8)|
 |2017|NIPS|Learning to Compose Domain-Specific Transformations for Data Augmentation|[Paper](https://arxiv.org/pdf/1709.01643.pdf), [Official Code](https://github.com/HazyResearch/tanda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/2)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
 
