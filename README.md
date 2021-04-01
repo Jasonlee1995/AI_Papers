@@ -1,10 +1,10 @@
 # AI Papers Review of Top-tier Conferences
-- Include CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI (oral)
+- Include CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ...
 - Some interesting papers maybe included even though they're not in the above conference list
 - Check-out Paper List or Search on Issues
 - Personal Review so **Don't Contain All Contents of Paper**
 
-## 1. Paper List
+## Paper List
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2020|NIPS|RandAugment: Practical Automated Data Augmentation with a Reduced Search Space|[Paper](https://arxiv.org/pdf/1909.13719.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/7)|
@@ -15,7 +15,9 @@
 |2017|ICLR|Categorical Reparameterization with Gumbel-Softmax|[Paper](https://arxiv.org/pdf/1611.01144.pdf), [Official Code](https://github.com/ericjang/gumbel-softmax), [Official Post](https://blog.evjang.com/2016/11/tutorial-categorical-variational.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/9)|
 |2017|ICLR|The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables|[Paper](https://arxiv.org/pdf/1611.00712.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/8)|
 |2017|NIPS|Learning to Compose Domain-Specific Transformations for Data Augmentation|[Paper](https://arxiv.org/pdf/1709.01643.pdf), [Official Code](https://github.com/HazyResearch/tanda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/2)|
+|2014|ICLR|Network In Network|[Paper](https://arxiv.org/pdf/1312.4400.pdf), [Official Code](https://github.com/mavenlin/cuda-convnet), [Open Review](https://openreview.net/forum?id=ylE6yojDR5yqX) [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/10)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
 
 
-Format : |20xx|CVPR, ICCV, ECCV, NIPS, ICML, ICLR, AAAI (oral)|Paper Name|[Paper](paper link), [Official Code](official code link), [Pytorch](implementation with pytorch), [Summary](summary link)|
+
+Format : |20xx|CVPR, ICCV, ECCV, NIPS, ICML, ICLR, AAAI (oral)|Paper Name|[Paper](paper link), [Official Code](official code link), [Open Review](openreview link), [Pytorch](implementation with pytorch), [Summary](summary link)|
