@@ -17,7 +17,7 @@
 |2017|ICLR|The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables|[Paper](https://arxiv.org/pdf/1611.00712.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/8)|
 |2017|NIPS|Learning to Compose Domain-Specific Transformations for Data Augmentation|[Paper](https://arxiv.org/pdf/1709.01643.pdf), [Official Code](https://github.com/HazyResearch/tanda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/2)|
 |2016|ECCV (Oral)|SSD: Single Shot MultiBox Detector|[Paper](https://arxiv.org/pdf/1512.02325.pdf), [Official Code](https://github.com/weiliu89/caffe/tree/ssd), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/12)|
-|2014|ICLR|Network In Network|[Paper](https://arxiv.org/pdf/1312.4400.pdf), [Official Code](https://github.com/mavenlin/cuda-convnet), [Open Review](https://openreview.net/forum?id=ylE6yojDR5yqX) [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/10)|
+|2014|ICLR|Network In Network|[Paper](https://arxiv.org/pdf/1312.4400.pdf), [Official Code](https://github.com/mavenlin/cuda-convnet), [Open Review](https://openreview.net/forum?id=ylE6yojDR5yqX) , [Pytorch](https://github.com/Jasonlee1995/NIN), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/10)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
 
 Format : |20xx|CVPR, ICCV, ECCV, NIPS, ICML, ICLR, AAAI (Oral)|Paper Name|[Paper](paper link), [Official Code](official code link), [Open Review](openreview link), [Pytorch](implementation with pytorch), [Summary](summary link)|
