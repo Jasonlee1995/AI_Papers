@@ -8,6 +8,7 @@
 ## Paper List
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2020|ECCV|Learning Data Augmentation Strategies for Object Detection|[Paper](https://arxiv.org/pdf/1906.11172.pdf), [Official Code](https://github.com/tensorflow/tpu/blob/master/models/official/detection/utils/autoaugment_utils.py), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/13)|
 |2020|NIPS|RandAugment: Practical Automated Data Augmentation with a Reduced Search Space|[Paper](https://arxiv.org/pdf/1909.13719.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/7)|
 |2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/pdf/1805.09501.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
 |2019|NIPS|Fast AutoAugment|[Paper](https://arxiv.org/pdf/1905.00397.pdf), [Official Code](https://github.com/kakaobrain/fast-autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/6)|
