@@ -10,7 +10,7 @@
 |:-:|:-:|:-|:-:|
 |2020|ECCV|Learning Data Augmentation Strategies for Object Detection|[Paper](https://arxiv.org/pdf/1906.11172.pdf), [Official Code](https://github.com/tensorflow/tpu/blob/master/models/official/detection/utils/autoaugment_utils.py), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/13)|
 |2020|NIPS|RandAugment: Practical Automated Data Augmentation with a Reduced Search Space|[Paper](https://arxiv.org/pdf/1909.13719.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/7)|
-|2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/pdf/1805.09501.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
+|2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/pdf/1805.09501.pdf), [Official Code](https://github.com/tensorflow/models/tree/master/research/autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
 |2019|NIPS|Fast AutoAugment|[Paper](https://arxiv.org/pdf/1905.00397.pdf), [Official Code](https://github.com/kakaobrain/fast-autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/6)|
 |2018|CVPR|Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation|[Paper](https://arxiv.org/pdf/1805.09707.pdf), [Official Code](https://github.com/zhiqiangdon/pose-adv-aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/3)|
 |2018|ECCV|Modeling Visual Context is Key to Augmenting Object Detection Datasets|[Paper](https://arxiv.org/pdf/1807.07428.pdf), [Official Code](https://github.com/dvornikita/context_aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/4)|
