@@ -9,7 +9,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2020|CVPR|Augment Your Batch: Improving Generalization Through Instance Repetition|[Paper](https://arxiv.org/pdf/1901.09335.pdf), [Official Code](https://github.com/eladhoffer/convNet.pytorch), [Open Review](https://openreview.net/forum?id=rylB0nNKDr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/21)|
-|2020|ECCV|Learning Data Augmentation Strategies for Object Detection|[Paper](https://arxiv.org/pdf/1906.11172.pdf), [Official Code](https://github.com/tensorflow/tpu/blob/master/models/official/detection/utils/autoaugment_utils.py), [Pytorch](https://github.com/Jasonlee1995/AutoAugment_Detection), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/13)|
+|2020|ECCV|Learning Data Augmentation Strategies for Object Detection|[Paper](https://arxiv.org/pdf/1906.11172.pdf), [Official Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection), [Pytorch](https://github.com/Jasonlee1995/AutoAugment_Detection), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/13)|
 |2020|ICLR|Adversarial AutoAugment|[Paper](https://arxiv.org/pdf/1912.11188.pdf), [Open Review](https://openreview.net/forum?id=ByxdUySKvS), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/19)|
 |2020|NIPS|RandAugment: Practical Automated Data Augmentation with a Reduced Search Space|[Paper](https://arxiv.org/pdf/1909.13719.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/7)|
 |2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/pdf/1805.09501.pdf), [Official Code](https://github.com/tensorflow/models/tree/master/research/autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
