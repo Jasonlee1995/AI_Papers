@@ -9,6 +9,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2020|CVPR|Augment Your Batch: Improving Generalization Through Instance Repetition|[Paper](https://arxiv.org/pdf/1901.09335.pdf), [Official Code](https://github.com/eladhoffer/convNet.pytorch), [Open Review](https://openreview.net/forum?id=rylB0nNKDr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/21)|
+|2020|ECCV|Faster AutoAugment: Learning Augmentation Strategies using Backpropagation|[Paper](https://arxiv.org/pdf/1911.06987.pdf), [Official Code](https://github.com/moskomule/dda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/24)|
 |2020|ECCV|Learning Data Augmentation Strategies for Object Detection|[Paper](https://arxiv.org/pdf/1906.11172.pdf), [Official Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection), [Pytorch](https://github.com/Jasonlee1995/AutoAugment_Detection), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/13)|
 |2020|ICLR|Adversarial AutoAugment|[Paper](https://arxiv.org/pdf/1912.11188.pdf), [Open Review](https://openreview.net/forum?id=ByxdUySKvS), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/19)|
 |2020|NIPS|RandAugment: Practical Automated Data Augmentation with a Reduced Search Space|[Paper](https://arxiv.org/pdf/1909.13719.pdf), [Official Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/7)|
@@ -30,7 +31,6 @@
 |2014|ICLR|OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks|[Paper](https://arxiv.org/pdf/1312.6229.pdf), [Official Code](https://github.com/sermanet/OverFeat), [Open Review](https://openreview.net/forum?id=Hq5MgBFOP62-X), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/17)|
 |2014|NIPS|Generative Adversarial Networks|[Paper](https://arxiv.org/pdf/1406.2661.pdf), [Official Code](https://github.com/goodfeli/adversarial), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/18)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
-
 
 
 Format : |20xx|CVPR, ICCV, ECCV, NIPS, ICML, ICLR, AAAI (Oral)|Paper Name|[Paper](paper link), [Official Code](official code link), [Open Review](openreview link), [Pytorch](implementation with pytorch), [Summary](summary link)|
