@@ -8,6 +8,7 @@
 ## Paper List
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2021|CVPR|Scale-aware Automatic Augmentation for Object Detection|[Paper](https://arxiv.org/pdf/2103.17220.pdf), [Official Code](https://github.com/dvlab-research/SA-AutoAug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/27)|
 |2020|CVPR|Augment Your Batch: Improving Generalization Through Instance Repetition|[Paper](https://arxiv.org/pdf/1901.09335.pdf), [Official Code](https://github.com/eladhoffer/convNet.pytorch), [Open Review](https://openreview.net/forum?id=rylB0nNKDr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/21)|
 |2020|CVPR|CNN-generated images are surprisingly easy to spot... for now|[Paper](https://arxiv.org/pdf/1912.11035.pdf), [Official Code](https://github.com/PeterWang512/CNNDetection), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/25)|
 |2020|ECCV|Faster AutoAugment: Learning Augmentation Strategies using Backpropagation|[Paper](https://arxiv.org/pdf/1911.06987.pdf), [Official Code](https://github.com/moskomule/dda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/24)|
@@ -33,6 +34,7 @@
 |2014|ICLR|OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks|[Paper](https://arxiv.org/pdf/1312.6229.pdf), [Official Code](https://github.com/sermanet/OverFeat), [Open Review](https://openreview.net/forum?id=Hq5MgBFOP62-X), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/17)|
 |2014|NIPS|Generative Adversarial Networks|[Paper](https://arxiv.org/pdf/1406.2661.pdf), [Official Code](https://github.com/goodfeli/adversarial), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/18)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
+
 
 
 Format : |20xx|CVPR, ICCV, ECCV, NIPS, ICML, ICLR, AAAI (Oral)|Paper Name|[Paper](paper_link), [Official Code](official_code_link), [Open Review](openreview_link), [Pytorch](pytorch_implementation), [Summary](summary_link)|
