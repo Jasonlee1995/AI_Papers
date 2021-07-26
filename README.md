@@ -27,6 +27,7 @@
 |2016|ECCV (Oral)|SSD: Single Shot MultiBox Detector|[Paper](https://arxiv.org/pdf/1512.02325.pdf), [Official Code](https://github.com/weiliu89/caffe/tree/ssd), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/12)|
 |2016|ICLR|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|[Paper](https://arxiv.org/pdf/1511.06434.pdf), [Pytorch](https://github.com/Jasonlee1995/DCGAN), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/23)|
 |2015|CVPR (Oral)|Going Deeper with Convolutions|[Paper](https://arxiv.org/pdf/1409.4842.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/20)|
+|2015|ICCV|Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification|[Paper](https://arxiv.org/pdf/1502.01852.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/31)|
 |2015|ICCV (Oral)|Fast R-CNN|[Paper](https://arxiv.org/pdf/1504.08083.pdf), [Official Code](https://github.com/rbgirshick/fast-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/29)|
 |2015|NIPS|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Paper](https://arxiv.org/pdf/1506.01497.pdf), [Official Code](https://github.com/ShaoqingRen/faster_rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/30)|
 |2014|Arxiv|Conditional Generative Adversarial Nets|[Paper](https://arxiv.org/pdf/1411.1784.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/26)|
