@@ -18,6 +18,7 @@
 |2019|NIPS|Fast AutoAugment|[Paper](https://arxiv.org/pdf/1905.00397.pdf), [Official Code](https://github.com/kakaobrain/fast-autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/6)|
 |2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/pdf/1805.09501.pdf), [Official Code](https://github.com/tensorflow/models/tree/master/research/autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
 |2018|ECCV|Modeling Visual Context is Key to Augmenting Object Detection Datasets|[Paper](https://arxiv.org/pdf/1807.07428.pdf), [Official Code](https://github.com/dvornikita/context_aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/4)|
+|2018|NIPS|An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution|[Paper](https://arxiv.org/pdf/1807.03247.pdf), [Official Code](https://github.com/uber-research/CoordConv), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/32)|
 |2018|CVPR|Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation|[Paper](https://arxiv.org/pdf/1805.09707.pdf), [Official Code](https://github.com/zhiqiangdon/pose-adv-aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/3)|
 |2017|NIPS|Learning to Compose Domain-Specific Transformations for Data Augmentation|[Paper](https://arxiv.org/pdf/1709.01643.pdf), [Official Code](https://github.com/HazyResearch/tanda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/2)|
 |2017|Arxiv|Improved Regularization of Convolutional Neural Networks with Cutout|[Paper](https://arxiv.org/pdf/1708.04552.pdf), [Official Code](https://github.com/uoguelph-mlrg/Cutout), [Pytorch](https://github.com/Jasonlee1995/Cutout), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/22)|
@@ -41,7 +42,7 @@
 
 
 
-Format : |20xx|CVPR, ICCV, ECCV, NIPS, ICML, ICLR, AAAI (Oral)|Paper Name|[Paper](paper_link), [Official Code](official_code_link), [Open Review](openreview_link), [Pytorch](pytorch_implementation), [Summary](summary_link)|
+Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official Code](official_code_link), [Open Review](openreview_link), [Pytorch](pytorch_implementation), [Summary](summary_link)|
 
 
 ## Review, Survey Paper List
