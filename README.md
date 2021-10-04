@@ -5,6 +5,8 @@
 - Personal Review so **Don't Contain All Contents of Paper**
 - Recently add review, survey papers for another section
 
+
+
 ## Paper List
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
@@ -25,13 +27,15 @@
 |2017|ICLR|Categorical Reparameterization with Gumbel-Softmax|[Paper](https://arxiv.org/pdf/1611.01144.pdf), [Official Code](https://github.com/ericjang/gumbel-softmax), [Official Post](https://blog.evjang.com/2016/11/tutorial-categorical-variational.html), [Pytorch](https://github.com/Jasonlee1995/Gumbel_Softmax), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/9)|
 |2017|ICLR|The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables|[Paper](https://arxiv.org/pdf/1611.00712.pdf), [Pytorch](https://github.com/Jasonlee1995/Gumbel_Softmax), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/8)|
 |2016|BMVC|Wide Residual Networks|[Paper](https://arxiv.org/pdf/1605.07146.pdf), [Official Code](https://github.com/szagoruyko/wide-residual-networks), [Pytorch](https://github.com/Jasonlee1995/WideResNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/16)|
+|2016|CVPR (Oral)|Deep Residual Learning for Image Recognition|[Paper](https://arxiv.org/pdf/1512.03385.pdf), [Official Code](https://github.com/KaimingHe/deep-residual-networks), [Pytorch](https://github.com/Jasonlee1995/ResNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/34)|
 |2016|ECCV (Oral)|SSD: Single Shot MultiBox Detector|[Paper](https://arxiv.org/pdf/1512.02325.pdf), [Official Code](https://github.com/weiliu89/caffe/tree/ssd), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/12)|
 |2016|ICLR|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|[Paper](https://arxiv.org/pdf/1511.06434.pdf), [Pytorch](https://github.com/Jasonlee1995/DCGAN), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/23)|
 |2015|NIPS|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Paper](https://arxiv.org/pdf/1506.01497.pdf), [Official Code](https://github.com/ShaoqingRen/faster_rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/30)|
 |2015|ICCV (Oral)|Fast R-CNN|[Paper](https://arxiv.org/pdf/1504.08083.pdf), [Official Code](https://github.com/rbgirshick/fast-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/29)|
 |2015|ICCV|Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification|[Paper](https://arxiv.org/pdf/1502.01852.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/31)|
-|2015|CVPR (Oral)|Going Deeper with Convolutions|[Paper](https://arxiv.org/pdf/1409.4842.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/20)|
 |2014|Arxiv|Conditional Generative Adversarial Nets|[Paper](https://arxiv.org/pdf/1411.1784.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/26)|
+|2015|CVPR (Oral)|Going Deeper with Convolutions|[Paper](https://arxiv.org/pdf/1409.4842.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/20)|
+|2015|ICLR (Oral)|Very Deep Convolutional Networks for Large-Scale Image Recognition|[Paper](https://arxiv.org/pdf/1409.1556.pdf), [Pytorch](https://github.com/Jasonlee1995/VGGNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/33)|
 |2014|ECCV|Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition|[Paper](https://arxiv.org/pdf/1406.4729.pdf), [Pytorch](https://github.com/Jasonlee1995/SPP), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/15)|
 |2014|NIPS|Generative Adversarial Networks|[Paper](https://arxiv.org/pdf/1406.2661.pdf), [Official Code](https://github.com/goodfeli/adversarial), [Pytorch](https://github.com/Jasonlee1995/GAN), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/18)|
 |2014|ICLR|OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks|[Paper](https://arxiv.org/pdf/1312.6229.pdf), [Official Code](https://github.com/sermanet/OverFeat), [Open Review](https://openreview.net/forum?id=Hq5MgBFOP62-X), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/17)|
@@ -43,6 +47,7 @@
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official Code](official_code_link), [Open Review](openreview_link), [Pytorch](pytorch_implementation), [Summary](summary_link)|
+
 
 
 ## Review, Survey Paper List
