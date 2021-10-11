@@ -25,6 +25,7 @@
 |2017|NIPS|Dynamic Routing Between Capsules|[Paper](https://arxiv.org/pdf/1710.09829.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/35)|
 |2017|NIPS|Learning to Compose Domain-Specific Transformations for Data Augmentation|[Paper](https://arxiv.org/pdf/1709.01643.pdf), [Official Code](https://github.com/HazyResearch/tanda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/2)|
 |2017|arXiv|Improved Regularization of Convolutional Neural Networks with Cutout|[Paper](https://arxiv.org/pdf/1708.04552.pdf), [Official Code](https://github.com/uoguelph-mlrg/Cutout), [Pytorch](https://github.com/Jasonlee1995/Cutout), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/22)|
+|2016|NIPS|Understanding the Effective Receptive Field in Deep Convolutional Neural Networks|[Paper](https://arxiv.org/pdf/1701.04128.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/37)|
 |2017|ICLR|Categorical Reparameterization with Gumbel-Softmax|[Paper](https://arxiv.org/pdf/1611.01144.pdf), [Official Code](https://github.com/ericjang/gumbel-softmax), [Official Post](https://blog.evjang.com/2016/11/tutorial-categorical-variational.html), [Pytorch](https://github.com/Jasonlee1995/Gumbel_Softmax), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/9)|
 |2017|ICLR|The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables|[Paper](https://arxiv.org/pdf/1611.00712.pdf), [Pytorch](https://github.com/Jasonlee1995/Gumbel_Softmax), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/8)|
 |2016|BMVC|Wide Residual Networks|[Paper](https://arxiv.org/pdf/1605.07146.pdf), [Official Code](https://github.com/szagoruyko/wide-residual-networks), [Pytorch](https://github.com/Jasonlee1995/WideResNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/16)|
@@ -45,7 +46,6 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/pdf/1311.2901.pdf), [Pytorch](https://github.com/Jasonlee1995/ZFNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Official Code](https://github.com/rbgirshick/rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
-
 
 
 
