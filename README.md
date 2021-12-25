@@ -27,6 +27,7 @@
 |2018|CVPR|Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation|[Paper](https://arxiv.org/pdf/1805.09707.pdf), [Official Pytorch Code](https://github.com/zhiqiangdon/pose-adv-aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/3)|
 |2017|NIPS|Dynamic Routing Between Capsules|[Paper](https://arxiv.org/pdf/1710.09829.pdf), [Open Review](https://papers.nips.cc/paper/2017/file/2cad8fa47bbef282badbb8de5374b894-Reviews.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/35)|
 |2017|NIPS|Learning to Compose Domain-Specific Transformations for Data Augmentation|[Paper](https://arxiv.org/pdf/1709.01643.pdf), [Official TF Code](https://github.com/HazyResearch/tanda), [Open Review](https://papers.nips.cc/paper/2017/file/f26dab9bf6a137c3b6782e562794c2f2-Reviews.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/2)|
+|2018|CVPR (Oral)|Squeeze-and-Excitation Networks|[Paper](https://arxiv.org/pdf/1709.01507.pdf), [Official Code](https://github.com/hujie-frank/SENet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/43)|
 |2017|arXiv|Improved Regularization of Convolutional Neural Networks with Cutout|[Paper](https://arxiv.org/pdf/1708.04552.pdf), [Official Pytorch Code](https://github.com/uoguelph-mlrg/Cutout), [Pytorch](https://github.com/Jasonlee1995/Cutout), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/22)|
 |2016|NIPS|Understanding the Effective Receptive Field in Deep Convolutional Neural Networks|[Paper](https://arxiv.org/pdf/1701.04128.pdf), [Open Review](https://papers.nips.cc/paper/2016/file/c8067ad1937f728f51288b3eb986afaa-Reviews.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/37)|
 |2017|ICLR|Categorical Reparameterization with Gumbel-Softmax|[Paper](https://arxiv.org/pdf/1611.01144.pdf), [Official TF Code](https://github.com/ericjang/gumbel-softmax), [Pytorch](https://github.com/Jasonlee1995/Gumbel_Softmax), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/9)|
@@ -51,7 +52,6 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/pdf/1311.2901.pdf), [Pytorch](https://github.com/Jasonlee1995/ZFNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
-
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Pytorch](pytorch_implementation), [Summary](summary_link)|
