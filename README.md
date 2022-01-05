@@ -22,8 +22,9 @@
 |2019|ICCV|Attention Augmented Convolutional Networks|[Paper](https://arxiv.org/pdf/1904.09925.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/39)|
 |2019|ICLR (Oral)|ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness|[Paper](https://arxiv.org/pdf/1811.12231.pdf), [Official Code](https://github.com/rgeirhos/texture-vs-shape), [OpenReview](https://openreview.net/forum?id=Bygh9j09KX), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/42)|
 |2018|ECCV|Modeling Visual Context is Key to Augmenting Object Detection Datasets|[Paper](https://arxiv.org/pdf/1807.07428.pdf), [Official TF Code](https://github.com/dvornikita/context_aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/4)|
-|2018|NIPS|An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution|[Paper](https://arxiv.org/pdf/1807.03247.pdf), [Official TF Code](https://github.com/uber-research/CoordConv), [Open Review](https://papers.nips.cc/paper/2018/file/60106888f8977b71e1f15db7bc9a88d1-Reviews.html), [Pytorch](https://github.com/Jasonlee1995/CoordConv), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/32)|
+|2018|ECCV|CBAM: Convolutional Block Attention Module|[Paper](https://arxiv.org/pdf/1807.06521.pdf), [Official Pytorch Code](https://github.com/Jongchan/attention-module), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/46)|
 |2018|BMVC (Oral)|BAM: Bottleneck Attention Module|[Paper](https://arxiv.org/pdf/1807.06514.pdf), [Official Pytorch Code](https://github.com/Jongchan/attention-module), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/45)|
+|2018|NIPS|An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution|[Paper](https://arxiv.org/pdf/1807.03247.pdf), [Official TF Code](https://github.com/uber-research/CoordConv), [Open Review](https://papers.nips.cc/paper/2018/file/60106888f8977b71e1f15db7bc9a88d1-Reviews.html), [Pytorch](https://github.com/Jasonlee1995/CoordConv), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/32)|
 |2018|CVPR|Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation|[Paper](https://arxiv.org/pdf/1805.09707.pdf), [Official Pytorch Code](https://github.com/zhiqiangdon/pose-adv-aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/3)|
 |2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/pdf/1805.09501.pdf), [Official TF Code](https://github.com/tensorflow/models/tree/master/research/autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
 |2018|CVPR|Non-local Neural Networks|[Paper](https://arxiv.org/pdf/1711.07971.pdf), [Official Code](https://github.com/facebookresearch/video-nonlocal-net), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/44)|
@@ -54,6 +55,7 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/pdf/1311.2901.pdf), [Pytorch](https://github.com/Jasonlee1995/ZFNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
+
 
 
 
