@@ -10,6 +10,7 @@
 ## Paper List
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/pdf/2201.06857v2.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
 |2021|CVPR|Scale-aware Automatic Augmentation for Object Detection|[Paper](https://arxiv.org/pdf/2103.17220.pdf), [Official Pytorch Code](https://github.com/dvlab-research/SA-AutoAug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/27)|
 |2020|NeurIPS|Supervised Contrastive Learning|[Paper](https://arxiv.org/pdf/2004.11362.pdf), [Official TF Code](https://github.com/google-research/google-research/tree/master/supcon), [Official Pytorch Code](https://github.com/HobbitLong/SupContrast), [Open Review](https://papers.nips.cc/paper/2020/file/d89a66c7c80a29b1bdbab0f2a1a94af8-Review.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/40)|
 |2020|ICLR|Adversarial AutoAugment|[Paper](https://arxiv.org/pdf/1912.11188.pdf), [Open Review](https://openreview.net/forum?id=ByxdUySKvS), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/19)|
