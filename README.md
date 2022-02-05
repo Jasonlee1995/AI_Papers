@@ -13,6 +13,7 @@
 |2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/pdf/2201.06857v2.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
 |2021|CVPR|Scale-aware Automatic Augmentation for Object Detection|[Paper](https://arxiv.org/pdf/2103.17220.pdf), [Official Pytorch Code](https://github.com/dvlab-research/SA-AutoAug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/27)|
 |2020|NeurIPS|Supervised Contrastive Learning|[Paper](https://arxiv.org/pdf/2004.11362.pdf), [Official TF Code](https://github.com/google-research/google-research/tree/master/supcon), [Official Pytorch Code](https://github.com/HobbitLong/SupContrast), [Open Review](https://papers.nips.cc/paper/2020/file/d89a66c7c80a29b1bdbab0f2a1a94af8-Review.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/40)|
+|2020|CVPR|Designing Network Design Spaces|[Paper](https://arxiv.org/pdf/2003.13678.pdf), [Official Pytorch Code](https://github.com/facebookresearch/pycls), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/50)|
 |2020|ICLR|Adversarial AutoAugment|[Paper](https://arxiv.org/pdf/1912.11188.pdf), [Open Review](https://openreview.net/forum?id=ByxdUySKvS), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/19)|
 |2020|CVPR (Oral)|CNN-generated images are surprisingly easy to spot... for now|[Paper](https://arxiv.org/pdf/1912.11035.pdf), [Official Pytorch Code](https://github.com/PeterWang512/CNNDetection), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/25)|
 |2020|ECCV|Faster AutoAugment: Learning Augmentation Strategies using Backpropagation|[Paper](https://arxiv.org/pdf/1911.06987.pdf), [Official Pytorch Code](https://github.com/moskomule/dda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/24)|
@@ -58,7 +59,6 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/pdf/1311.2901.pdf), [Pytorch](https://github.com/Jasonlee1995/ZFNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Pytorch](https://github.com/Jasonlee1995/AlexNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
-
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Pytorch](pytorch_implementation), [Summary](summary_link)|
