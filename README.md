@@ -11,6 +11,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/pdf/2201.06857v2.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
+|2022|CVPR|PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures|[Paper](https://arxiv.org/pdf/2112.05135.pdf), [Official Pytorch Code](https://github.com/andyzoujm/pixmix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/61)|
 |2021|NeurIPS (Oral)|Learning Debiased Representation via Disentangled Feature Augmentation|[Paper](https://arxiv.org/pdf/2107.01372.pdf), [Open Review](https://openreview.net/forum?id=-oUhJJILWHb), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/57)|
 |2021|CVPR|Scale-aware Automatic Augmentation for Object Detection|[Paper](https://arxiv.org/pdf/2103.17220.pdf), [Official Pytorch Code](https://github.com/dvlab-research/SA-AutoAug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/27)|
 |2021|ICML (Spotlight)|Barlow Twins: Self-Supervised Learning via Redundancy Reduction|[Paper](https://arxiv.org/pdf/2103.03230.pdf), [Official Pytorch Code](https://github.com/facebookresearch/barlowtwins), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/54)|
