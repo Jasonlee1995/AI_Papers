@@ -10,7 +10,7 @@
 ## Paper List
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
-|2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/pdf/2201.06857v2.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
+|2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/pdf/2201.06857.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
 |2022|CVPR|PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures|[Paper](https://arxiv.org/pdf/2112.05135.pdf), [Official Pytorch Code](https://github.com/andyzoujm/pixmix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/61)|
 |2021|NeurIPS (Oral)|Learning Debiased Representation via Disentangled Feature Augmentation|[Paper](https://arxiv.org/pdf/2107.01372.pdf), [Open Review](https://openreview.net/forum?id=-oUhJJILWHb), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/57)|
 |2022|ICLR (Oral)|BEIT: BERT Pre-Training of Image Transformers|[Paper](https://arxiv.org/pdf/2106.08254.pdf), [Official Pytorch Code](https://github.com/microsoft/unilm/tree/master/beit), [Open Review](https://openreview.net/forum?id=p-BhZSz59o4), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/65)|
