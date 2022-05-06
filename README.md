@@ -52,6 +52,7 @@
 |2017|ICLR|Categorical Reparameterization with Gumbel-Softmax|[Paper](https://arxiv.org/pdf/1611.01144.pdf), [Official TF Code](https://github.com/ericjang/gumbel-softmax), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/9)|
 |2017|ICLR|The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables|[Paper](https://arxiv.org/pdf/1611.00712.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/8)|
 |2017|ICLR|A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks|[Paper](https://arxiv.org/pdf/1610.02136.pdf), [Official Code](https://github.com/hendrycks/error-detection), [Open Review](https://openreview.net/forum?id=Hkg4TI9xl), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/59)|
+|2017|ICLR (Oral)|On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima|[Paper](https://arxiv.org/pdf/1609.04836.pdf), [Official Pytorch Code](https://github.com/keskarnitish/large-batch-training), [Open Review](https://openreview.net/forum?id=H1oyRlYgg), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/66)|
 |2016|arXiv|Gaussian Error Linear Units (GELUs)|[Paper](https://arxiv.org/pdf/1606.08415.pdf), [Official Code](https://github.com/hendrycks/GELUs), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/52)|
 |2016|BMVC|Wide Residual Networks|[Paper](https://arxiv.org/pdf/1605.07146.pdf), [Official Pytorch Code](https://github.com/szagoruyko/wide-residual-networks), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/16)|
 |2016|CVPR|Learning Deep Features for Discriminative Localization|[Paper](https://arxiv.org/pdf/1512.04150.pdf), [Official Pytorch Code](https://github.com/zhoubolei/CAM), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/41)|
@@ -74,6 +75,7 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/pdf/1311.2901.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
+
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
