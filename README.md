@@ -29,6 +29,7 @@
 |2020|ICML|Learning De-biased Representations with Biased Representations|[Paper](https://arxiv.org/pdf/1910.02806.pdf), [Official Pytorch Code](https://github.com/clovaai/rebias), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/55)|
 |2020|NeurIPS|RandAugment: Practical Automated Data Augmentation with a Reduced Search Space|[Paper](https://arxiv.org/pdf/1909.13719.pdf), [Official TF Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet), [Open Review](https://papers.nips.cc/paper/2020/file/d85b63ef0ccb114d0a3bb7b7d808028f-Review.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/7)|
 |2020|ECCV|Learning Data Augmentation Strategies for Object Detection|[Paper](https://arxiv.org/pdf/1906.11172.pdf), [Official TF Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/13)|
+|2019|ICLR|Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet|[Paper](https://arxiv.org/pdf/1904.00760.pdf), [Official Pytorch Code](https://github.com/wielandbrendel/bag-of-local-features-models), [Open Review](https://openreview.net/forum?id=SkfMWhAqYQ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/67)|
 |2020|CVPR|Augment Your Batch: Improving Generalization Through Instance Repetition|[Paper](https://arxiv.org/pdf/1901.09335.pdf), [Official Pytorch Code](https://github.com/eladhoffer/convNet.pytorch), [Open Review](https://openreview.net/forum?id=rylB0nNKDr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/21)|
 |2019|NeurIPS|Fast AutoAugment|[Paper](https://arxiv.org/pdf/1905.00397.pdf), [Official Pytorch Code](https://github.com/kakaobrain/fast-autoaugment), [Open Review](https://papers.nips.cc/paper/2019/file/6add07cf50424b14fdf649da87843d01-Reviews.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/6)|
 |2019|ICCV|Attention Augmented Convolutional Networks|[Paper](https://arxiv.org/pdf/1904.09925.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/39)|
@@ -75,7 +76,6 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/pdf/1311.2901.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
-
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
