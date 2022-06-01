@@ -17,6 +17,7 @@
 |2022|CVPR|Backdoor Attacks on Self-Supervised Learning|[Paper](https://arxiv.org/pdf/2105.10123.pdf), [Official Pytorch Code](https://github.com/UMBCvision/SSL-Backdoor), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/71)|
 |2021|CVPR|Scale-aware Automatic Augmentation for Object Detection|[Paper](https://arxiv.org/pdf/2103.17220.pdf), [Official Pytorch Code](https://github.com/dvlab-research/SA-AutoAug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/27)|
 |2021|ICML (Spotlight)|Barlow Twins: Self-Supervised Learning via Redundancy Reduction|[Paper](https://arxiv.org/pdf/2103.03230.pdf), [Official Pytorch Code](https://github.com/facebookresearch/barlowtwins), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/54)|
+|2020|NeurIPS|CompRess: Self-Supervised Learning by Compressing Representations|[Paper](https://arxiv.org/pdf/2010.14713.pdf), [Official Pytorch Code](https://github.com/UMBCvision/CompReSS), [Open Review](https://papers.nips.cc/paper/2020/file/975a1c8b9aee1c48d32e13ec30be7905-Review.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/73)|
 |2021|ICLR (Oral)|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale|[Paper](https://arxiv.org/pdf/2010.11929.pdf), [Official Code](https://github.com/google-research/vision_transformer), [Open Review](https://openreview.net/forum?id=YicbFdNTTy), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/53)|
 |2020|NeurIPS|Energy-based Out-of-distribution Detection|[Paper](https://arxiv.org/pdf/2010.03759.pdf), [Official Pytorch Code](https://github.com/wetliu/energy_ood), [Open Review](https://papers.nips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Review.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/62)|
 |2020|NeurIPS|Learning from Failure: Training Debiased Classifier from Biased Classifier|[Paper](https://arxiv.org/pdf/2007.02561.pdf), [Official Pytorch Code](https://github.com/alinlab/LfF), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/56)|
@@ -81,6 +82,8 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/pdf/1311.2901.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
+
+
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
