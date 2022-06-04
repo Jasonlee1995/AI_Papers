@@ -52,6 +52,7 @@
 |2017|arXiv|Improved Regularization of Convolutional Neural Networks with Cutout|[Paper](https://arxiv.org/pdf/1708.04552.pdf), [Official Pytorch Code](https://github.com/uoguelph-mlrg/Cutout), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/22)|
 |2017|ICML|A Closer Look at Memorization in Deep Networks|[Paper](https://arxiv.org/pdf/1706.05394.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/72)|
 |2018|ICLR|Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks|[Paper](https://arxiv.org/pdf/1706.02690.pdf), [Official Pytorch Code](https://github.com/facebookresearch/odin), [Open Review](https://openreview.net/forum?id=H1VGkIxRZ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/60)|
+|2017|NIPS (Oral)|Train longer, generalize better: closing the generalization gap in large batch training of neural networks|[Paper](https://arxiv.org/pdf/1705.08741.pdf), [Official Pytorch Code](https://github.com/eladhoffer/bigBatch), [Open Review](https://papers.nips.cc/paper/2017/file/a5e0ff62be0b08456fc7f1e88812af3d-Reviews.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/74)|
 |2016|NIPS|Understanding the Effective Receptive Field in Deep Convolutional Neural Networks|[Paper](https://arxiv.org/pdf/1701.04128.pdf), [Open Review](https://papers.nips.cc/paper/2016/file/c8067ad1937f728f51288b3eb986afaa-Reviews.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/37)|
 |2017|PNAS|Overcoming catastrophic forgetting in neural networks|[Paper](https://arxiv.org/pdf/1612.00796.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/64)|
 |2017|ICLR (Oral)|Understanding Deep Learning requires Rethinking Generalization|[Paper](https://arxiv.org/pdf/1611.03530.pdf), [Official Pytorch Code](https://github.com/pluskid/fitting-random-labels), [Open Review](https://openreview.net/forum?id=Sy8gdB9xx), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/70)|
@@ -82,8 +83,6 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/pdf/1311.2901.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/pdf/1311.2524.pdf), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
-
-
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
