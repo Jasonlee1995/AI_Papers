@@ -10,6 +10,7 @@
 ## Paper List
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2022|CVPR|Long-Tailed Recognition via Weight Balancing|[Paper](https://arxiv.org/abs/2203.14197), [Official Pytorch Code](https://github.com/ShadeAlsha/LTR-weight-balancing), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/81)|
 |2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/abs/2201.06857), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
 |2022|CVPR|PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures|[Paper](https://arxiv.org/abs/2112.05135), [Official Pytorch Code](https://github.com/andyzoujm/pixmix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/61)|
 |2021|NeurIPS (Oral)|Learning Debiased Representation via Disentangled Feature Augmentation|[Paper](https://arxiv.org/abs/2107.01372), [Open Review](https://openreview.net/forum?id=-oUhJJILWHb), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/57)|
