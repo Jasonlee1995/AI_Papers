@@ -57,6 +57,7 @@
 |2019|CVPR (Oral)|Do Better ImageNet Models Transfer Better?|[Paper](https://arxiv.org/abs/1805.08974), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/75)|
 |2019|ICLR|Learning What and Where to Attend|[Paper](https://arxiv.org/abs/1805.08819), [Official TF Code](https://github.com/serre-lab/gala_tpu), [Open Review](https://openreview.net/forum?id=BJgLg3R9KQ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/47)|
 |2018|CVPR|Non-local Neural Networks|[Paper](https://arxiv.org/abs/1711.07971), [Official Code](https://github.com/facebookresearch/video-nonlocal-net), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/44)|
+|2017|NIPS|Neural Discrete Representation Learning|[Paper](https://arxiv.org/abs/1711.00937), [Official TF Code](https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py), [Open Review](https://papers.nips.cc/paper/2017/hash/7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/86)|
 |2017|NIPS|Dynamic Routing Between Capsules|[Paper](https://arxiv.org/abs/1710.09829), [Open Review](https://papers.nips.cc/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/35)|
 |2017|NIPS|Learning to Compose Domain-Specific Transformations for Data Augmentation|[Paper](https://arxiv.org/abs/1709.01643), [Official TF Code](https://github.com/HazyResearch/tanda), [Open Review](https://papers.nips.cc/paper/2017/hash/f26dab9bf6a137c3b6782e562794c2f2-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/2)|
 |2018|CVPR (Oral)|Squeeze-and-Excitation Networks|[Paper](https://arxiv.org/abs/1709.01507), [Official Code](https://github.com/hujie-frank/SENet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/43)|
@@ -94,6 +95,7 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/abs/1311.2901), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/abs/1311.2524), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
+
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
