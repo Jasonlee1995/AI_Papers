@@ -23,6 +23,7 @@
 |2020|NeurIPS|CompRess: Self-Supervised Learning by Compressing Representations|[Paper](https://arxiv.org/abs/2010.14713), [Official Pytorch Code](https://github.com/UMBCvision/CompReSS), [Open Review](https://papers.nips.cc/paper/2020/hash/975a1c8b9aee1c48d32e13ec30be7905-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/73)|
 |2021|ICLR (Oral)|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale|[Paper](https://arxiv.org/abs/2010.11929), [Official Code](https://github.com/google-research/vision_transformer), [Open Review](https://openreview.net/forum?id=YicbFdNTTy), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/53)|
 |2020|NeurIPS|Energy-based Out-of-distribution Detection|[Paper](https://arxiv.org/abs/2010.03759), [Official Pytorch Code](https://github.com/wetliu/energy_ood), [Open Review](https://papers.nips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/62)|
+|2020|EMNLP|Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics|[Paper](https://arxiv.org/abs/2009.10795), [Official Pytorch Code](https://github.com/allenai/cartography), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/89)|
 |2020|NeurIPS|Learning from Failure: Training Debiased Classifier from Biased Classifier|[Paper](https://arxiv.org/abs/2007.02561), [Official Pytorch Code](https://github.com/alinlab/LfF), [Open Review](https://papers.nips.cc/paper/2020/hash/eddc3427c5d77843c2253f1e799fe933-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/56)|
 |2020|arXiv|Are we done with ImageNet?|[Paper](https://arxiv.org/abs/2006.07159), [Official TF Code](https://github.com/google-research/reassessed-imagenet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/78)|
 |2020|NeurIPS (Oral)|Rethinking Pre-training and Self-training|[Paper](https://arxiv.org/abs/2006.06882), [Official TF Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/self_training), [Open Review](https://proceedings.neurips.cc/paper/2020/hash/27e9661e033a73a6ad8cefcde965c54d-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/83)|
@@ -97,7 +98,6 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/abs/1311.2901), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/abs/1311.2524), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
-
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
