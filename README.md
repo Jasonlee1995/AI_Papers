@@ -1,18 +1,21 @@
 # AI Papers Review of Top-tier Conferences
 - Include CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ...
-- Some interesting papers maybe included even though they're not in the above conference list
+- Interesting papers may included even though they're not in the above conference list
 - Check-out Paper List or Search on Issues
 - Personal Review so **Don't Contain All Contents of Paper**
-- Recently add review, survey papers for another section
 
 
-
-## Paper List
+# Paper List
+## 2022
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2022|CVPR (Oral)|Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning|[Paper](https://arxiv.org/abs/2206.02647), [Official Pytorch Code](https://github.com/mahmoodlab/HIPT), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/82)|
 |2022|CVPR|Long-Tailed Recognition via Weight Balancing|[Paper](https://arxiv.org/abs/2203.14197), [Official Pytorch Code](https://github.com/ShadeAlsha/LTR-weight-balancing), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/81)|
 |2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/abs/2201.06857), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
+
+## 2021
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
 |2022|CVPR|PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures|[Paper](https://arxiv.org/abs/2112.05135), [Official Pytorch Code](https://github.com/andyzoujm/pixmix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/61)|
 |2021|NeurIPS (Oral)|Learning Debiased Representation via Disentangled Feature Augmentation|[Paper](https://arxiv.org/abs/2107.01372), [Open Review](https://openreview.net/forum?id=-oUhJJILWHb), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/57)|
 |2021|NeurIPS|Deep Learning Through the Lens of Example Difficulty|[Paper](https://arxiv.org/abs/2106.09647), [Open Review](https://openreview.net/forum?id=WWRBHhH158K), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/90)|
@@ -21,6 +24,10 @@
 |2021|CVPR|Scale-aware Automatic Augmentation for Object Detection|[Paper](https://arxiv.org/abs/2103.17220), [Official Pytorch Code](https://github.com/dvlab-research/SA-AutoAug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/27)|
 |2021|ICML (Spotlight)|Barlow Twins: Self-Supervised Learning via Redundancy Reduction|[Paper](https://arxiv.org/abs/2103.03230), [Official Pytorch Code](https://github.com/facebookresearch/barlowtwins), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/54)|
 |2021|ICML (Oral)|Delving into Deep Imbalanced Regression|[Paper](https://arxiv.org/abs/2102.09554), [Official Pytorch Code](https://github.com/YyzHarry/imbalanced-regression), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/85)|
+
+## 2020
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
 |2020|NeurIPS|CompRess: Self-Supervised Learning by Compressing Representations|[Paper](https://arxiv.org/abs/2010.14713), [Official Pytorch Code](https://github.com/UMBCvision/CompReSS), [Open Review](https://papers.nips.cc/paper/2020/hash/975a1c8b9aee1c48d32e13ec30be7905-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/73)|
 |2021|ICLR (Oral)|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale|[Paper](https://arxiv.org/abs/2010.11929), [Official Code](https://github.com/google-research/vision_transformer), [Open Review](https://openreview.net/forum?id=YicbFdNTTy), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/53)|
 |2020|NeurIPS|Energy-based Out-of-distribution Detection|[Paper](https://arxiv.org/abs/2010.03759), [Official Pytorch Code](https://github.com/wetliu/energy_ood), [Open Review](https://papers.nips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/62)|
@@ -32,8 +39,13 @@
 |2020|CVPR|Designing Network Design Spaces|[Paper](https://arxiv.org/abs/2003.13678), [Official Pytorch Code](https://github.com/facebookresearch/pycls), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/50)|
 |2020|arXiv|Improved Baselines with Momentum Contrastive Learning|[Paper](https://arxiv.org/abs/2003.04297), [Official Pytorch Code](https://github.com/facebookresearch/moco), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/58)|
 |2020|ICML|A Simple Framework for Contrastive Learning of Visual Representations|[Paper](https://arxiv.org/abs/2002.05709), [Official TF Code](https://github.com/google-research/simclr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/69)|
+
+## 2019
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
 |2020|ICLR|Adversarial AutoAugment|[Paper](https://arxiv.org/abs/1912.11188), [Open Review](https://openreview.net/forum?id=ByxdUySKvS), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/19)|
 |2020|CVPR (Oral)|CNN-generated images are surprisingly easy to spot... for now|[Paper](https://arxiv.org/abs/1912.11035), [Official Pytorch Code](https://github.com/PeterWang512/CNNDetection), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/25)|
+|2020|ICLR (Oral)|Your Classifier is Secretly an Energy-Based Model and You Should Treat it Like One|[Paper](https://arxiv.org/abs/1912.03263), [Official Pytorch Code](https://github.com/wgrathwohl/JEM), [Open Review](https://openreview.net/forum?id=Hkxzx0NtDB), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/91)|
 |2020|ECCV|Faster AutoAugment: Learning Augmentation Strategies using Backpropagation|[Paper](https://arxiv.org/abs/1911.06987), [Official Pytorch Code](https://github.com/moskomule/dda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/24)|
 |2020|CVPR (Oral)|Momentum Contrast for Unsupervised Visual Representation Learning|[Paper](https://arxiv.org/abs/1911.05722), [Official Pytorch Code](https://github.com/facebookresearch/moco), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/51)|
 |2020|ICLR|Decoupling Representation and Classifier for Long-Tailed Recognition|[Paper](https://arxiv.org/abs/1910.09217), [Official Pytorch Code](https://github.com/facebookresearch/classifier-balancing), [Open Review](https://openreview.net/forum?id=r1gRTCVFvB), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/80)|
@@ -45,6 +57,10 @@
 |2019|ICLR|Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet|[Paper](https://arxiv.org/abs/1904.00760), [Official Pytorch Code](https://github.com/wielandbrendel/bag-of-local-features-models), [Open Review](https://openreview.net/forum?id=SkfMWhAqYQ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/67)|
 |2019|ICML (Oral)|Do ImageNet Classifiers Generalize to ImageNet?|[Paper](https://arxiv.org/abs/1902.10811), [Official Pytorch Code](https://github.com/modestyachts/ImageNetV2), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/79)|
 |2020|CVPR|Augment Your Batch: Improving Generalization Through Instance Repetition|[Paper](https://arxiv.org/abs/1901.09335), [Official Pytorch Code](https://github.com/eladhoffer/convNet.pytorch), [Open Review](https://openreview.net/forum?id=rylB0nNKDr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/21)|
+
+## 2018
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
 |2019|PNAS|Reconciling modern machine learning practice and the bias-variance trade-off|[Paper](https://arxiv.org/abs/1812.11118), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/88)|
 |2019|ICLR|An Empirical Study of Example Forgetting during Deep Neural Network Learning|[Paper](https://arxiv.org/abs/1812.05159), [Official Pytorch Code](https://github.com/mtoneva/example_forgetting), [Open Review](https://openreview.net/forum?id=BJlxm30cKm), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/76)|
 |2019|ICLR (Oral)|ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness|[Paper](https://arxiv.org/abs/1811.12231), [Official Code](https://github.com/rgeirhos/texture-vs-shape), [OpenReview](https://openreview.net/forum?id=Bygh9j09KX), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/42)|
@@ -60,6 +76,10 @@
 |2019|CVPR (Oral)|Do Better ImageNet Models Transfer Better?|[Paper](https://arxiv.org/abs/1805.08974), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/75)|
 |2019|ICLR|Learning What and Where to Attend|[Paper](https://arxiv.org/abs/1805.08819), [Official TF Code](https://github.com/serre-lab/gala_tpu), [Open Review](https://openreview.net/forum?id=BJgLg3R9KQ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/47)|
 |2018|CVPR|Non-local Neural Networks|[Paper](https://arxiv.org/abs/1711.07971), [Official Code](https://github.com/facebookresearch/video-nonlocal-net), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/44)|
+
+## 2017
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
 |2017|NIPS|Neural Discrete Representation Learning|[Paper](https://arxiv.org/abs/1711.00937), [Official TF Code](https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py), [Open Review](https://papers.nips.cc/paper/2017/hash/7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/86)|
 |2017|NIPS|Dynamic Routing Between Capsules|[Paper](https://arxiv.org/abs/1710.09829), [Open Review](https://papers.nips.cc/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/35)|
 |2017|NIPS|Learning to Compose Domain-Specific Transformations for Data Augmentation|[Paper](https://arxiv.org/abs/1709.01643), [Official TF Code](https://github.com/HazyResearch/tanda), [Open Review](https://papers.nips.cc/paper/2017/hash/f26dab9bf6a137c3b6782e562794c2f2-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/2)|
@@ -70,6 +90,10 @@
 |2018|ICLR|Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks|[Paper](https://arxiv.org/abs/1706.02690), [Official Pytorch Code](https://github.com/facebookresearch/odin), [Open Review](https://openreview.net/forum?id=H1VGkIxRZ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/60)|
 |2017|NIPS (Oral)|Train longer, generalize better: closing the generalization gap in large batch training of neural networks|[Paper](https://arxiv.org/abs/1705.08741), [Official Pytorch Code](https://github.com/eladhoffer/bigBatch), [Open Review](https://papers.nips.cc/paper/2017/hash/a5e0ff62be0b08456fc7f1e88812af3d-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/74)|
 |2016|NIPS|Understanding the Effective Receptive Field in Deep Convolutional Neural Networks|[Paper](https://arxiv.org/abs/1701.04128), [Open Review](https://papers.nips.cc/paper/2016/hash/c8067ad1937f728f51288b3eb986afaa-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/37)|
+
+## 2016
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
 |2017|PNAS|Overcoming catastrophic forgetting in neural networks|[Paper](https://arxiv.org/abs/1612.00796), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/64)|
 |2017|ICLR (Oral)|Understanding Deep Learning requires Rethinking Generalization|[Paper](https://arxiv.org/abs/1611.03530), [Official Pytorch Code](https://github.com/pluskid/fitting-random-labels), [Open Review](https://openreview.net/forum?id=Sy8gdB9xx), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/70)|
 |2017|ICLR|Categorical Reparameterization with Gumbel-Softmax|[Paper](https://arxiv.org/abs/1611.01144), [Official TF Code](https://github.com/ericjang/gumbel-softmax), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/9)|
@@ -79,6 +103,10 @@
 |2016|NIPS (Spotlight)|Learning Structured Sparsity in Deep Neural Networks|[Paper](https://arxiv.org/abs/1608.03665), [Official Code](https://github.com/wenwei202/caffe/tree/scnn), [Open Review](https://papers.nips.cc/paper/2016/hash/41bfd20a38bb1b0bec75acf0845530a7-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/68)|
 |2016|arXiv|Gaussian Error Linear Units (GELUs)|[Paper](https://arxiv.org/abs/1606.08415), [Official Code](https://github.com/hendrycks/GELUs), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/52)|
 |2016|BMVC|Wide Residual Networks|[Paper](https://arxiv.org/abs/1605.07146), [Official Pytorch Code](https://github.com/szagoruyko/wide-residual-networks), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/16)|
+
+## 2015
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
 |2016|CVPR|Learning Deep Features for Discriminative Localization|[Paper](https://arxiv.org/abs/1512.04150), [Official Pytorch Code](https://github.com/zhoubolei/CAM), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/41)|
 |2016|CVPR (Oral)|Deep Residual Learning for Image Recognition|[Paper](https://arxiv.org/abs/1512.03385), [Official Code](https://github.com/KaimingHe/deep-residual-networks), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/34)|
 |2016|ECCV (Oral)|SSD: Single Shot MultiBox Detector|[Paper](https://arxiv.org/abs/1512.02325), [Official Code](https://github.com/weiliu89/caffe/tree/ssd), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/12)|
@@ -87,6 +115,10 @@
 |2015|NIPS|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Paper](https://arxiv.org/abs/1506.01497), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Open Review](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/30)|
 |2015|ICCV (Oral)|Fast R-CNN|[Paper](https://arxiv.org/abs/1504.08083), [Official Code](https://github.com/rbgirshick/fast-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/29)|
 |2015|ICCV|Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification|[Paper](https://arxiv.org/abs/1502.01852), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/31)|
+
+## ~ 2014
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
 |2015|CVPR (Oral)|Understanding Deep Image Representations by Inverting Them|[Paper](https://arxiv.org/abs/1412.0035), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/38)|
 |2014|arXiv|Conditional Generative Adversarial Nets|[Paper](https://arxiv.org/abs/1411.1784), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/26)|
 |2015|CVPR (Oral)|Going Deeper with Convolutions|[Paper](https://arxiv.org/abs/1409.4842), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/20)|
