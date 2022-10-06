@@ -134,12 +134,3 @@
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
-
-
-
-## Review, Survey Paper List
-|Year|Paper|Links|
-|:-:|:-|:-:|
-|2020|A review of object detection based on deep learning|[Paper](https://link.springer.com/article/10.1007/s11042-020-08976-6), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/11)|
-
-Format : |20xx|Paper Name|[Paper](paper link), [Summary](summary link)|
