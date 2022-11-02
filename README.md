@@ -36,6 +36,7 @@
 |2020|NeurIPS|Early-Learning Regularization Prevents Memorization of Noisy Labels|[Paper](https://arxiv.org/abs/2007.00151), [Official Pytorch Code](https://github.com/shengliu66/ELR), [Open Review](https://papers.nips.cc/paper/2020/hash/ea89621bee7c88b2c5be6681c8ef4906-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/92)|
 |2020|arXiv|Are we done with ImageNet?|[Paper](https://arxiv.org/abs/2006.07159), [Official TF Code](https://github.com/google-research/reassessed-imagenet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/78)|
 |2020|NeurIPS (Oral)|Rethinking Pre-training and Self-training|[Paper](https://arxiv.org/abs/2006.06882), [Official TF Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/self_training), [Open Review](https://proceedings.neurips.cc/paper/2020/hash/27e9661e033a73a6ad8cefcde965c54d-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/83)|
+|2020|INTERSPEECH|Conformer: Convolution-augmented Transformer for Speech Recognition|[Paper](https://arxiv.org/abs/2005.08100), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/94)|
 |2020|NeurIPS|Supervised Contrastive Learning|[Paper](https://arxiv.org/abs/2004.11362), [Official TF Code](https://github.com/google-research/google-research/tree/master/supcon), [Official Pytorch Code](https://github.com/HobbitLong/SupContrast), [Open Review](https://papers.nips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/40)|
 |2020|CVPR|Designing Network Design Spaces|[Paper](https://arxiv.org/abs/2003.13678), [Official Pytorch Code](https://github.com/facebookresearch/pycls), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/50)|
 |2020|arXiv|Improved Baselines with Momentum Contrastive Learning|[Paper](https://arxiv.org/abs/2003.04297), [Official Pytorch Code](https://github.com/facebookresearch/moco), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/58)|
@@ -134,6 +135,7 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/abs/1311.2901), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/abs/1311.2524), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
+
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
