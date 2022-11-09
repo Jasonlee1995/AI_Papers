@@ -74,6 +74,7 @@
 |2018|ECCV|CBAM: Convolutional Block Attention Module|[Paper](https://arxiv.org/abs/1807.06521), [Official Pytorch Code](https://github.com/Jongchan/attention-module), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/46)|
 |2018|BMVC (Oral)|BAM: Bottleneck Attention Module|[Paper](https://arxiv.org/abs/1807.06514), [Official Pytorch Code](https://github.com/Jongchan/attention-module), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/45)|
 |2018|NeurIPS|An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution|[Paper](https://arxiv.org/abs/1807.03247), [Official TF Code](https://github.com/uber-research/CoordConv), [Open Review](https://papers.nips.cc/paper/2018/hash/60106888f8977b71e1f15db7bc9a88d1-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/32)|
+|2018|INTERSPEECH|VoxCeleb2: Deep Speaker Recognition|[Paper](https://arxiv.org/abs/1806.05622), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/96)|
 |2018|CVPR|Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation|[Paper](https://arxiv.org/abs/1805.09707), [Official Pytorch Code](https://github.com/zhiqiangdon/pose-adv-aug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/3)|
 |2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/abs/1805.09501), [Official TF Code](https://github.com/tensorflow/models/tree/master/research/autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
 |2019|CVPR (Oral)|Do Better ImageNet Models Transfer Better?|[Paper](https://arxiv.org/abs/1805.08974), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/75)|
@@ -136,7 +137,6 @@
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/abs/1311.2901), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/abs/1311.2524), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
-
 
 
 Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
