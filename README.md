@@ -1,6 +1,11 @@
-# AI Papers Review of Top-tier Conferences
-- Include CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ...
-- Interesting papers may included even though they're not in the above conference list
+# AI Papers Review of Top-tier Conferences or Journals
+
+- Top-tier list
+  - Artificial Intelligence : ICLR, NeurIPS, ICML, AAAI
+  - Computational Linguistics : ACL, EMNLP, NAACL, 
+  - Computer Vision & Pattern Recognition : CVPR, ICCV, ECCV
+  - Signal Processing : ICASSP, INTERSPEECH
+- Interesting papers may reviewed even though they're not in the above list
 - Check-out Paper List or Search on Issues
 - Personal Review so **Don't Contain All Contents of Paper**
 
