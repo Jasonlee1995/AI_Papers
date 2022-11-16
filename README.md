@@ -47,6 +47,7 @@
 |2020|INTERSPEECH|Conformer: Convolution-augmented Transformer for Speech Recognition|[Paper](https://arxiv.org/abs/2005.08100), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/94)|
 |2020|NeurIPS|Supervised Contrastive Learning|[Paper](https://arxiv.org/abs/2004.11362), [Official TF Code](https://github.com/google-research/google-research/tree/master/supcon), [Official Pytorch Code](https://github.com/HobbitLong/SupContrast), [Open Review](https://papers.nips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/40)|
 |2020|CVPR|Designing Network Design Spaces|[Paper](https://arxiv.org/abs/2003.13678), [Official Pytorch Code](https://github.com/facebookresearch/pycls), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/50)|
+|2020|INTERSPEECH|In defence of metric learning for speaker recognition|[Paper](https://arxiv.org/abs/2003.11982), [Official Pytorch Code](https://github.com/clovaai/voxceleb_trainer), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/99)|
 |2020|arXiv|Improved Baselines with Momentum Contrastive Learning|[Paper](https://arxiv.org/abs/2003.04297), [Official Pytorch Code](https://github.com/facebookresearch/moco), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/58)|
 |2020|ICML|A Simple Framework for Contrastive Learning of Visual Representations|[Paper](https://arxiv.org/abs/2002.05709), [Official TF Code](https://github.com/google-research/simclr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/69)|
 
