@@ -143,6 +143,7 @@
 |:-:|:-:|:-|:-:|
 |2015|CVPR (Oral)|Understanding Deep Image Representations by Inverting Them|[Paper](https://arxiv.org/abs/1412.0035), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/38)|
 |2014|arXiv|Conditional Generative Adversarial Nets|[Paper](https://arxiv.org/abs/1411.1784), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/26)|
+|2015|ICLR (Workshop)|NICE: Non-linear Independent Components Estimation|[Paper](https://arxiv.org/abs/1410.8516), [Official Code](https://github.com/laurent-dinh/nice), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/100)|
 |2015|CVPR (Oral)|Going Deeper with Convolutions|[Paper](https://arxiv.org/abs/1409.4842), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/20)|
 |2015|ICLR (Oral)|Very Deep Convolutional Networks for Large-Scale Image Recognition|[Paper](https://arxiv.org/abs/1409.1556), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/33)|
 |2014|ECCV|Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition|[Paper](https://arxiv.org/abs/1406.4729), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/15)|
@@ -156,4 +157,4 @@
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
 
 
-Format : |20xx|Conference (Oral Spotlight)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
+Format : |20xx|Conference (Oral Spotlight Workshop)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
