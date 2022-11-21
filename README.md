@@ -69,6 +69,7 @@
 |2019|INTERSPEECH (Oral)|RawNet: Advanced end-to-end deep neural network using raw waveforms for text-independent speaker verification|[Paper](https://arxiv.org/abs/1904.08104), [Official TF/Pytorch Code](https://github.com/Jungjee/RawNet), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/101)|
 |2019|ICLR|Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet|[Paper](https://arxiv.org/abs/1904.00760), [Official Pytorch Code](https://github.com/wielandbrendel/bag-of-local-features-models), [Open Review](https://openreview.net/forum?id=SkfMWhAqYQ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/67)|
 |2019|ICML (Oral)|Do ImageNet Classifiers Generalize to ImageNet?|[Paper](https://arxiv.org/abs/1902.10811), [Official Pytorch Code](https://github.com/modestyachts/ImageNetV2), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/79)|
+|2019|INTERSPEECH|End-to-end losses based on speaker basis vectors and all-speaker hard negative mining for speaker verification|[Paper](https://arxiv.org/abs/1902.02455), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/102)|
 |2020|CVPR|Augment Your Batch: Improving Generalization Through Instance Repetition|[Paper](https://arxiv.org/abs/1901.09335), [Official Pytorch Code](https://github.com/eladhoffer/convNet.pytorch), [Open Review](https://openreview.net/forum?id=rylB0nNKDr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/21)|
 
 
