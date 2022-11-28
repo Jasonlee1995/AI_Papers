@@ -123,6 +123,7 @@
 |2017|ICLR (Oral)|On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima|[Paper](https://arxiv.org/abs/1609.04836), [Official Pytorch Code](https://github.com/keskarnitish/large-batch-training), [Open Review](https://openreview.net/forum?id=H1oyRlYgg), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/66)|
 |2016|NIPS (Spotlight)|Learning Structured Sparsity in Deep Neural Networks|[Paper](https://arxiv.org/abs/1608.03665), [Official Code](https://github.com/wenwei202/caffe/tree/scnn), [Open Review](https://papers.nips.cc/paper/2016/hash/41bfd20a38bb1b0bec75acf0845530a7-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/68)|
 |2016|arXiv|Gaussian Error Linear Units (GELUs)|[Paper](https://arxiv.org/abs/1606.08415), [Official Code](https://github.com/hendrycks/GELUs), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/52)|
+|2016|NIPS (Spotlight)|f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization|[Paper](https://arxiv.org/abs/1606.00709), [Open Review](https://papers.nips.cc/paper/2016/hash/cedebb6e872f539bef8c3f919874e9d7-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/104)|
 |2016|BMVC|Wide Residual Networks|[Paper](https://arxiv.org/abs/1605.07146), [Official Pytorch Code](https://github.com/szagoruyko/wide-residual-networks), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/16)|
 
 
