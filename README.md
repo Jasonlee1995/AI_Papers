@@ -24,6 +24,7 @@
 |:-:|:-:|:-|:-:|
 |2022|CVPR|PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures|[Paper](https://arxiv.org/abs/2112.05135), [Official Pytorch Code](https://github.com/andyzoujm/pixmix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/61)|
 |2021|NeurIPS Datasets and Benchmarks|The People's Speech: A Large-Scale Diverse English Speech Recognition Dataset for Commercial Usage|[Paper](https://arxiv.org/abs/2111.09344), [Official Pytorch Code](https://github.com/mlcommons/peoples-speech), [Open Review](https://openreview.net/forum?id=R8CwidgJ0yT), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/103)|
+|2021|NeurIPS|Deep Learning on a Data Diet: Finding Important Examples Early in Training|[Paper](https://arxiv.org/abs/2107.07075), [Official JAX Code](https://github.com/mansheej/data_diet), [Open Review](https://openreview.net/forum?id=Uj7pF-D-YvT), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/109)|
 |2021|NeurIPS (Oral)|Learning Debiased Representation via Disentangled Feature Augmentation|[Paper](https://arxiv.org/abs/2107.01372), [Open Review](https://openreview.net/forum?id=-oUhJJILWHb), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/57)|
 |2021|NeurIPS|Deep Learning Through the Lens of Example Difficulty|[Paper](https://arxiv.org/abs/2106.09647), [Open Review](https://openreview.net/forum?id=WWRBHhH158K), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/90)|
 |2022|ICLR (Oral)|BEIT: BERT Pre-Training of Image Transformers|[Paper](https://arxiv.org/abs/2106.08254), [Official Pytorch Code](https://github.com/microsoft/unilm/tree/master/beit), [Open Review](https://openreview.net/forum?id=p-BhZSz59o4), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/65)|
@@ -163,4 +164,4 @@
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
 
 
-Format : |20xx|Conference (Oral Spotlight Workshop)|Paper|[Paper](paper_link), [Official TF/Pytorch/ Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
+Format : |20xx|Conference (Oral Spotlight Workshop)|Paper|[Paper](paper_link), [Official TF/Pytorch/JAX Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
