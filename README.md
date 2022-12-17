@@ -141,6 +141,7 @@
 |2016|ICLR|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|[Paper](https://arxiv.org/abs/1511.06434), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/23)|
 |2015|NIPS (Spotlight)|Spatial Transformer Networks|[Paper](https://arxiv.org/abs/1506.02025), [Open Review](https://papers.nips.cc/paper/2015/hash/33ceb07bf4eeb3da587e268d663aba1a-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/36)|
 |2015|NIPS|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Paper](https://arxiv.org/abs/1506.01497), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Open Review](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/30)|
+|2015|Google Blog|Inceptionism: Going Deeper into Neural Networks|[Paper](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), [Official Code](https://github.com/google/deepdream), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/110)|
 |2015|ICCV (Oral)|Fast R-CNN|[Paper](https://arxiv.org/abs/1504.08083), [Official Code](https://github.com/rbgirshick/fast-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/29)|
 |2015|ICCV|Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification|[Paper](https://arxiv.org/abs/1502.01852), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/31)|
 
