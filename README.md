@@ -97,12 +97,13 @@
 |2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/abs/1805.09501), [Official TF Code](https://github.com/tensorflow/models/tree/master/research/autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
 |2019|CVPR (Oral)|Do Better ImageNet Models Transfer Better?|[Paper](https://arxiv.org/abs/1805.08974), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/75)|
 |2019|ICLR|Learning What and Where to Attend|[Paper](https://arxiv.org/abs/1805.08819), [Official TF Code](https://github.com/serre-lab/gala_tpu), [Open Review](https://openreview.net/forum?id=BJgLg3R9KQ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/47)|
-|2018|CVPR|Non-local Neural Networks|[Paper](https://arxiv.org/abs/1711.07971), [Official Code](https://github.com/facebookresearch/video-nonlocal-net), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/44)|
+|2018|NeurIPS (Spotlight)|Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs|[Paper](https://arxiv.org/abs/1802.10026), [Official Pytorch Code](https://github.com/timgaripov/dnn-mode-connectivity), [Open Review](https://papers.nips.cc/paper/2018/hash/be3087e74e9100d4bc4c6268cdbe8456-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/115)|
 
 
 ## 2017
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2018|CVPR|Non-local Neural Networks|[Paper](https://arxiv.org/abs/1711.07971), [Official Code](https://github.com/facebookresearch/video-nonlocal-net), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/44)|
 |2017|NIPS|Neural Discrete Representation Learning|[Paper](https://arxiv.org/abs/1711.00937), [Official TF Code](https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py), [Open Review](https://papers.nips.cc/paper/2017/hash/7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/86)|
 |2018|ICASSP|Generalized End-to-End Loss for Speaker Verification|[Paper](https://arxiv.org/abs/1710.10467), [Official TF Code](https://github.com/google/speaker-id/blob/master/lingvo/loss_layers.py), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/98)|
 |2017|NIPS|Dynamic Routing Between Capsules|[Paper](https://arxiv.org/abs/1710.09829), [Open Review](https://papers.nips.cc/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/35)|
