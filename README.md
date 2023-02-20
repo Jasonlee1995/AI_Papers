@@ -136,6 +136,7 @@
 |2016|arXiv|Gaussian Error Linear Units (GELUs)|[Paper](https://arxiv.org/abs/1606.08415), [Official Code](https://github.com/hendrycks/GELUs), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/52)|
 |2016|NIPS|InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets|[Paper](https://arxiv.org/abs/1606.03657), [Official TF Code](https://github.com/openai/InfoGAN), [Open Review](https://papers.nips.cc/paper/2016/hash/7c9d0b1f96aebd7b5eca8c3edaa19ebb-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/112)|
 |2016|NIPS (Spotlight)|f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization|[Paper](https://arxiv.org/abs/1606.00709), [Open Review](https://papers.nips.cc/paper/2016/hash/cedebb6e872f539bef8c3f919874e9d7-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/104)|
+|2017|ICLR|Density estimation using Real NVP|[Paper](https://arxiv.org/abs/1605.08803), [Open Review](https://openreview.net/forum?id=HkpbnH9lx), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/121)|
 |2016|BMVC|Wide Residual Networks|[Paper](https://arxiv.org/abs/1605.07146), [Official Pytorch Code](https://github.com/szagoruyko/wide-residual-networks), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/16)|
 
 
