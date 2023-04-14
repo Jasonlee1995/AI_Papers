@@ -157,6 +157,7 @@
 |2015|Google Blog|Inceptionism: Going Deeper into Neural Networks|[Paper](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), [Official Code](https://github.com/google/deepdream), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/110)|
 |2015|ICML|Variational Inference with Normalizing Flows|[Paper](https://arxiv.org/abs/1505.05770), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/114)|
 |2015|ICCV (Oral)|Fast R-CNN|[Paper](https://arxiv.org/abs/1504.08083), [Official Code](https://github.com/rbgirshick/fast-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/29)|
+|2015|ICML|Deep Unsupervised Learning using Nonequilibrium Thermodynamics|[Paper](https://arxiv.org/abs/1503.03585), [Official Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/125)|
 |2015|ICCV|Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification|[Paper](https://arxiv.org/abs/1502.01852), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/31)|
 
 
