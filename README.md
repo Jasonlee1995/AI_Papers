@@ -179,6 +179,7 @@
 |2014|ICLR|Network In Network|[Paper](https://arxiv.org/abs/1312.4400), [Official Code](https://github.com/mavenlin/cuda-convnet), [Open Review](https://openreview.net/forum?id=ylE6yojDR5yqX), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/10)|
 |2014|ECCV (Oral)|Visualizing and Understanding Convolutional Networks|[Paper](https://arxiv.org/abs/1311.2901), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/14)|
 |2014|CVPR (Oral)|Rich feature hierarchies for accurate object detection and semantic segmentation|[Paper](https://arxiv.org/abs/1311.2524), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/28)|
+|2013|ICLR (Workshop)|Efficient Estimation of Word Representations in Vector Space|[Paper](https://arxiv.org/abs/1301.3781), [Official Code](https://code.google.com/archive/p/word2vec/), [Open Review](https://openreview.net/forum?id=idpCdOWtqXd60), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/127)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
 
 
