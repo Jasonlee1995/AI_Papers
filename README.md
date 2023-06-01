@@ -115,6 +115,7 @@
 |:-:|:-:|:-|:-:|
 |2018|CVPR|Non-local Neural Networks|[Paper](https://arxiv.org/abs/1711.07971), [Official Code](https://github.com/facebookresearch/video-nonlocal-net), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/44)|
 |2017|NIPS|Neural Discrete Representation Learning|[Paper](https://arxiv.org/abs/1711.00937), [Official TF Code](https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py), [Open Review](https://papers.nips.cc/paper/2017/hash/7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/86)|
+|2017|Distill|Sequence Modeling With CTC|[Paper](https://distill.pub/2017/ctc/), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/131)|
 |2017|Distill|Feature Visualization|[Paper](https://distill.pub/2017/feature-visualization/), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/124)|
 |2018|ICASSP|Generalized End-to-End Loss for Speaker Verification|[Paper](https://arxiv.org/abs/1710.10467), [Official TF Code](https://github.com/google/speaker-id/blob/master/lingvo/loss_layers.py), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/98)|
 |2017|NIPS|Dynamic Routing Between Capsules|[Paper](https://arxiv.org/abs/1710.09829), [Open Review](https://papers.nips.cc/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/35)|
