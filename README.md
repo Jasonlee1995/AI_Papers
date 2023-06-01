@@ -1,16 +1,15 @@
-# AI Papers Review of Top-tier Conferences or Journals
+# AI Papers Review of Top-tier Conferences
 
 - Top-tier list
   - Artificial Intelligence : ICLR, NeurIPS, ICML, AAAI
-  - Computational Linguistics : ACL, EMNLP, NAACL, 
+  - Computational Linguistics : ACL, EMNLP, NAACL
   - Computer Vision & Pattern Recognition : CVPR, ICCV, ECCV
   - Signal Processing : ICASSP, INTERSPEECH
-- Interesting papers may reviewed even though they're not in the above list
-- Check-out Paper List or Search on Issues
-- Personal Review so **Don't Contain All Contents of Paper**
+- Interesting papers may also be reviewed, even though they're not in the above list
+- Useful blogs may also be reviewed
+- Personal review, so **don't contain all the contents of the paper**
 
 
-# Paper List
 ## 2022
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
@@ -158,7 +157,6 @@
 |2016|ICLR|Importance Weighted Autoencoders|[Paper](https://arxiv.org/abs/1509.00519), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/113)|
 |2015|NIPS (Spotlight)|Spatial Transformer Networks|[Paper](https://arxiv.org/abs/1506.02025), [Open Review](https://papers.nips.cc/paper/2015/hash/33ceb07bf4eeb3da587e268d663aba1a-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/36)|
 |2015|NIPS|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Paper](https://arxiv.org/abs/1506.01497), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Open Review](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/30)|
-|2015|Google Blog|Inceptionism: Going Deeper into Neural Networks|[Paper](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), [Official Code](https://github.com/google/deepdream), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/110)|
 |2015|ICML|Variational Inference with Normalizing Flows|[Paper](https://arxiv.org/abs/1505.05770), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/114)|
 |2015|ICCV (Oral)|Fast R-CNN|[Paper](https://arxiv.org/abs/1504.08083), [Official Code](https://github.com/rbgirshick/fast-rcnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/29)|
 |2015|ICML|Deep Unsupervised Learning using Nonequilibrium Thermodynamics|[Paper](https://arxiv.org/abs/1503.03585), [Official Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/125)|
@@ -188,3 +186,13 @@
 
 
 Format : |20xx|Conference (Oral Spotlight Workshop)|Paper|[Paper](paper_link), [Official TF/Pytorch/JAX Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
+
+
+
+## Blogs
+|Year|Source|Title|Links|
+|:-:|:-:|:-|:-:|
+|2015|Google Blog|Inceptionism: Going Deeper into Neural Networks|[Blog](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), [Official Code](https://github.com/google/deepdream), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/110)|
+
+
+Format : |20xx|Source|Title|[Blog](blog_link), [Official TF/Pytorch/JAX Code](official_code_link), [Summary](summary_link)|
