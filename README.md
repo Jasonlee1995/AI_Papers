@@ -132,6 +132,7 @@
 ## 2016
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2017|INTERSPEECH|Towards better decoding and language model integration in sequence to sequence models|[Paper](https://arxiv.org/abs/1612.02695), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/135)|
 |2017|PNAS|Overcoming catastrophic forgetting in neural networks|[Paper](https://arxiv.org/abs/1612.00796), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/64)|
 |2017|CVPR|Image-to-Image Translation with Conditional Adversarial Networks|[Paper](https://arxiv.org/abs/1611.07004), [Official Pytorch Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/108)|
 |2017|ICLR (Oral)|Understanding Deep Learning requires Rethinking Generalization|[Paper](https://arxiv.org/abs/1611.03530), [Official Pytorch Code](https://github.com/pluskid/fitting-random-labels), [Open Review](https://openreview.net/forum?id=Sy8gdB9xx), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/70)|
