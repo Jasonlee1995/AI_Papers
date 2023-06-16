@@ -115,6 +115,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2018|ICASSP|Minimum Word Error Rate Training for Attention-based Sequence-to-Sequence Models|[Paper](https://arxiv.org/abs/1712.01818), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/139)|
+|2018|ICASSP|State-of-the-art Speech Recognition With Sequence-to-Sequence Models|[Paper](https://arxiv.org/abs/1712.01769), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/140)|
 |2018|CVPR|Non-local Neural Networks|[Paper](https://arxiv.org/abs/1711.07971), [Official Code](https://github.com/facebookresearch/video-nonlocal-net), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/44)|
 |2017|NIPS|Neural Discrete Representation Learning|[Paper](https://arxiv.org/abs/1711.00937), [Official TF Code](https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py), [Open Review](https://papers.nips.cc/paper/2017/hash/7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/86)|
 |2017|Distill|Sequence Modeling With CTC|[Paper](https://distill.pub/2017/ctc/), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/131)|
