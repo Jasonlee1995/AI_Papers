@@ -116,6 +116,7 @@
 ## 2017
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2018|ICASSP|An Analysis of Incorporating an External Language Model into a Sequence-to-Sequence Model|[Paper](https://arxiv.org/abs/1712.01996), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/143)|
 |2018|ICASSP|Minimum Word Error Rate Training for Attention-based Sequence-to-Sequence Models|[Paper](https://arxiv.org/abs/1712.01818), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/139)|
 |2018|ICASSP|State-of-the-art Speech Recognition With Sequence-to-Sequence Models|[Paper](https://arxiv.org/abs/1712.01769), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/140)|
 |2018|CVPR|Non-local Neural Networks|[Paper](https://arxiv.org/abs/1711.07971), [Official Code](https://github.com/facebookresearch/video-nonlocal-net), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/44)|
