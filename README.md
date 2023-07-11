@@ -14,7 +14,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2022|ECCV (Workshop, Oral)|You Only Need a Good Embeddings Extractor to Fix Spurious Correlations|[Paper](https://arxiv.org/abs/2212.06254), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/111)|
-|2022|NeurIPS (Oral)|Beyond neural scaling laws: beating power law scaling via data pruning|[Paper](https://arxiv.org/abs/2206.14486), [Open Review](https://openreview.net/forum?id=UmvSlP-PyV), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/123)|
+|2022|NeurIPS (Oral)|Beyond neural scaling laws: beating power law scaling via data pruning|[Paper](https://arxiv.org/abs/2206.14486), [Official Code](https://github.com/rgeirhos/dataset-pruning-metrics), [Open Review](https://openreview.net/forum?id=UmvSlP-PyV), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/123)|
 |2022|CVPR (Oral)|Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning|[Paper](https://arxiv.org/abs/2206.02647), [Official Pytorch Code](https://github.com/mahmoodlab/HIPT), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/82)|
 |2022|CVPR|Long-Tailed Recognition via Weight Balancing|[Paper](https://arxiv.org/abs/2203.14197), [Official Pytorch Code](https://github.com/ShadeAlsha/LTR-weight-balancing), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/81)|
 |2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/abs/2201.06857), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
