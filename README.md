@@ -64,6 +64,7 @@
 |2020|arXiv|Improved Baselines with Momentum Contrastive Learning|[Paper](https://arxiv.org/abs/2003.04297), [Official Pytorch Code](https://github.com/facebookresearch/moco), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/58)|
 |2020|ICML|A Simple Framework for Contrastive Learning of Visual Representations|[Paper](https://arxiv.org/abs/2002.05709), [Official TF Code](https://github.com/google-research/simclr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/69)|
 |2021|ICML (Oral)|Characterizing Structural Regularities of Labeled Data in Overparameterized Models|[Paper](https://arxiv.org/abs/2002.03206), [Official Pytorch Code](https://github.com/pluskid/structural-regularity), [Open Review](https://openreview.net/forum?id=3GYfIYvNNhL), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/129)|
+|2020|NeurIPS|Identifying Mislabeled Data using the Area Under the Margin Ranking|[Paper](https://arxiv.org/abs/2001.10528), [Official Pytorch Code](https://github.com/asappresearch/aum), [Open Review](https://proceedings.neurips.cc/paper/2020/hash/c6102b3727b2a7d8b1bb6981147081ef-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/134)|
 
 
 ## 2019
