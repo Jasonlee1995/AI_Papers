@@ -43,6 +43,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2020|NeurIPS|CompRess: Self-Supervised Learning by Compressing Representations|[Paper](https://arxiv.org/abs/2010.14713), [Official Pytorch Code](https://github.com/UMBCvision/CompReSS), [Open Review](https://papers.nips.cc/paper/2020/hash/975a1c8b9aee1c48d32e13ec30be7905-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/73)|
+|2021|ICASSP|Improved Mask-CTC for Non-Autoregressive End-to-End ASR|[Paper](https://arxiv.org/abs/2010.13270), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/147)|
 |2021|ICLR (Oral)|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale|[Paper](https://arxiv.org/abs/2010.11929), [Official Code](https://github.com/google-research/vision_transformer), [Open Review](https://openreview.net/forum?id=YicbFdNTTy), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/53)|
 |2020|NeurIPS|Energy-based Out-of-distribution Detection|[Paper](https://arxiv.org/abs/2010.03759), [Official Pytorch Code](https://github.com/wetliu/energy_ood), [Open Review](https://papers.nips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/62)|
 |2020|EMNLP|Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics|[Paper](https://arxiv.org/abs/2009.10795), [Official Pytorch Code](https://github.com/allenai/cartography), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/89)|
