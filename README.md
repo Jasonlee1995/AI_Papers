@@ -25,6 +25,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2022|CVPR|PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures|[Paper](https://arxiv.org/abs/2112.05135), [Official Pytorch Code](https://github.com/andyzoujm/pixmix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/61)|
+|2022|CVPR|SimMIM: A Simple Framework for Masked Image Modeling|[Paper](https://arxiv.org/abs/2111.09886), [Official Pytorch Code](https://github.com/microsoft/SimMIM), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/150)|
 |2021|NeurIPS Datasets and Benchmarks|The People's Speech: A Large-Scale Diverse English Speech Recognition Dataset for Commercial Usage|[Paper](https://arxiv.org/abs/2111.09344), [Official Pytorch Code](https://github.com/mlcommons/peoples-speech), [Open Review](https://openreview.net/forum?id=R8CwidgJ0yT), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/103)|
 |2022|CVPR (Oral)|Masked Autoencoders Are Scalable Vision Learners|[Paper](https://arxiv.org/abs/2111.06377), [Official Pytorch Code](https://github.com/facebookresearch/mae), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/148)|
 |2021|NeurIPS|Deep Learning on a Data Diet: Finding Important Examples Early in Training|[Paper](https://arxiv.org/abs/2107.07075), [Official JAX Code](https://github.com/mansheej/data_diet), [Open Review](https://openreview.net/forum?id=Uj7pF-D-YvT), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/109)|
