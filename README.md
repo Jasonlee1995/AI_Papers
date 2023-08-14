@@ -14,6 +14,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2022|ECCV (Workshop, Oral)|You Only Need a Good Embeddings Extractor to Fix Spurious Correlations|[Paper](https://arxiv.org/abs/2212.06254), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/111)|
+|2023|ICASSP|Towards Zero-Shot Code-Switched Speech Recognition|[Paper](https://arxiv.org/abs/2211.01458), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/154)|
 |2022|NeurIPS|Characterizing Datapoints via Second-Split Forgetting|[Paper](https://arxiv.org/abs/2210.15031), [Official Pytorch Code](https://github.com/pratyushmaini/ssft), [Open Review](https://openreview.net/forum?id=yKDKNzjHg8N), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/153)|
 |2022|NeurIPS (Oral)|Beyond neural scaling laws: beating power law scaling via data pruning|[Paper](https://arxiv.org/abs/2206.14486), [Official Code](https://github.com/rgeirhos/dataset-pruning-metrics), [Open Review](https://openreview.net/forum?id=UmvSlP-PyV), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/123)|
 |2022|CVPR (Oral)|Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning|[Paper](https://arxiv.org/abs/2206.02647), [Official Pytorch Code](https://github.com/mahmoodlab/HIPT), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/82)|
