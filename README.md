@@ -186,6 +186,7 @@
 |2016|ECCV (Oral)|SSD: Single Shot MultiBox Detector|[Paper](https://arxiv.org/abs/1512.02325), [Official Code](https://github.com/weiliu89/caffe/tree/ssd), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/12)|
 |2016|ICLR|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|[Paper](https://arxiv.org/abs/1511.06434), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/23)|
 |2016|ICLR|Importance Weighted Autoencoders|[Paper](https://arxiv.org/abs/1509.00519), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/113)|
+|2016|ACL (Long)|Neural Machine Translation of Rare Words with Subword Units|[Paper](https://arxiv.org/abs/1508.07909), [Official Code](https://github.com/rsennrich/subword-nmt), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/163)|
 |2016|AAAI (Oral)|Character-Aware Neural Language Models|[Paper](https://arxiv.org/abs/1508.06615), [Official Code](https://github.com/yoonkim/lstm-char-cnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/162)|
 |2016|ICASSP|End-to-End Attention-based Large Vocabulary Speech Recognition|[Paper](https://arxiv.org/abs/1508.04395), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/133)|
 |2015|NIPS (Spotlight)|Spatial Transformer Networks|[Paper](https://arxiv.org/abs/1506.02025), [Open Review](https://papers.nips.cc/paper/2015/hash/33ceb07bf4eeb3da587e268d663aba1a-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/36)|
