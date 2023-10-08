@@ -132,6 +132,7 @@
 |2019|CVPR (Oral)|AutoAugment: Learning Augmentation Strategies From Data|[Paper](https://arxiv.org/abs/1805.09501), [Official TF Code](https://github.com/tensorflow/models/tree/master/research/autoaugment), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/5)|
 |2019|CVPR (Oral)|Do Better ImageNet Models Transfer Better?|[Paper](https://arxiv.org/abs/1805.08974), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/75)|
 |2019|ICLR|Learning What and Where to Attend|[Paper](https://arxiv.org/abs/1805.08819), [Official TF Code](https://github.com/serre-lab/gala_tpu), [Open Review](https://openreview.net/forum?id=BJgLg3R9KQ), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/47)|
+|2018|ACL (Long)|Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates|[Paper](https://arxiv.org/abs/1804.10959), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/166)|
 |2018|NeurIPS (Spotlight)|Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs|[Paper](https://arxiv.org/abs/1802.10026), [Official Pytorch Code](https://github.com/timgaripov/dnn-mode-connectivity), [Open Review](https://papers.nips.cc/paper/2018/hash/be3087e74e9100d4bc4c6268cdbe8456-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/115)|
 
 
