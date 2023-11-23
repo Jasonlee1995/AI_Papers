@@ -185,6 +185,7 @@
 |2016|NIPS (Spotlight)|f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization|[Paper](https://arxiv.org/abs/1606.00709), [Open Review](https://papers.nips.cc/paper/2016/hash/cedebb6e872f539bef8c3f919874e9d7-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/104)|
 |2017|ICLR|Density estimation using Real NVP|[Paper](https://arxiv.org/abs/1605.08803), [Open Review](https://openreview.net/forum?id=HkpbnH9lx), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/121)|
 |2016|BMVC|Wide Residual Networks|[Paper](https://arxiv.org/abs/1605.07146), [Official Pytorch Code](https://github.com/szagoruyko/wide-residual-networks), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/16)|
+|2016|ACCV|Lip Reading in the Wild|[Paper](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/index.html#publications), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/173)|
 
 
 ## 2015
