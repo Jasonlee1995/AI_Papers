@@ -245,6 +245,7 @@ Format : |20xx|Conference (Oral Spotlight Workshop)|Paper|[Paper](paper_link), [
 ## Blogs
 |Year|Source|Title|Links|
 |:-:|:-:|:-|:-:|
+|2022|OpenAI Blog|DALL-E 2 pre-training mitigations|[Blog](https://openai.com/research/dall-e-2-pre-training-mitigations), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/182)|
 |2018|Medium|Illustrated Guide to Recurrent Neural Networks|[Blog](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/132)|
 |2015|Google Blog|Inceptionism: Going Deeper into Neural Networks|[Blog](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), [Official Code](https://github.com/google/deepdream), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/110)|
 
