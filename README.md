@@ -1,6 +1,6 @@
 # AI Papers Review of Top-tier Conferences
 
-- Top-tier list
+- Top-tier list from [google scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng)
   - Artificial Intelligence : ICLR, NeurIPS, ICML, AAAI
   - Computational Linguistics : ACL, EMNLP, NAACL
   - Computer Vision & Pattern Recognition : CVPR, ICCV, ECCV
