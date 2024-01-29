@@ -15,6 +15,7 @@
 |:-:|:-:|:-|:-:|
 |2023|INTERSPEECH|Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition|[Paper](https://arxiv.org/abs/2307.05956), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/160)|
 |2023|INTERSPEECH|Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition|[Paper](https://arxiv.org/abs/2306.05279), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/159)|
+|2023|NeurIPS Datasets and Benchmarks (Spotlight)|Stable Bias: Evaluating Societal Representations in Diffusion Models|[Paper](https://arxiv.org/abs/2303.11408), [Open Review](https://openreview.net/forum?id=qVXYU3F017), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/183)|
 
 
 ## 2022
