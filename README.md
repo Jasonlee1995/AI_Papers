@@ -24,6 +24,7 @@
 |:-:|:-:|:-|:-:|
 |2022|ECCV (Workshop, Oral)|You Only Need a Good Embeddings Extractor to Fix Spurious Correlations|[Paper](https://arxiv.org/abs/2212.06254), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/111)|
 |2023|ICML|Robust Speech Recognition via Large-Scale Weak Supervision|[Paper](https://arxiv.org/abs/2212.04356), [Official Pytorch Code](https://github.com/openai/whisper), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/169)|
+|2023|NeurIPS (Spotlight)|Spuriosity Rankings: Sorting Data to Measure and Mitigate Biases|[Paper](https://arxiv.org/abs/2212.02648), [Open Review](https://openreview.net/forum?id=jSuhnO9QJv), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/185)|
 |2023|ICASSP|Towards Zero-Shot Code-Switched Speech Recognition|[Paper](https://arxiv.org/abs/2211.01458), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/154)|
 |2022|NeurIPS|Characterizing Datapoints via Second-Split Forgetting|[Paper](https://arxiv.org/abs/2210.15031), [Official Pytorch Code](https://github.com/pratyushmaini/ssft), [Open Review](https://openreview.net/forum?id=yKDKNzjHg8N), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/153)|
 |2023|ICASSP|Reducing Language confusion for Code-switching Speech Recognition with Token-level Language Diarization|[Paper](https://arxiv.org/abs/2210.14567), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/156)|
