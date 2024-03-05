@@ -225,6 +225,7 @@
 |2015|ICLR (Oral)|Qualitatively characterizing neural network optimization problems|[Paper](https://arxiv.org/abs/1412.6544), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/155)|
 |2015|CVPR (Oral)|Understanding Deep Image Representations by Inverting Them|[Paper](https://arxiv.org/abs/1412.0035), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/38)|
 |2014|arXiv|Conditional Generative Adversarial Nets|[Paper](https://arxiv.org/abs/1411.1784), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/26)|
+|2015|ICCV|Deep Learning Face Attributes in the Wild|[Paper](https://arxiv.org/abs/1411.7766), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/188)|
 |2015|ICLR (Workshop)|NICE: Non-linear Independent Components Estimation|[Paper](https://arxiv.org/abs/1410.8516), [Official Code](https://github.com/laurent-dinh/nice), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/100)|
 |2015|CVPR (Oral)|Going Deeper with Convolutions|[Paper](https://arxiv.org/abs/1409.4842), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/20)|
 |2015|ICLR (Oral)|Very Deep Convolutional Networks for Large-Scale Image Recognition|[Paper](https://arxiv.org/abs/1409.1556), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/33)|
