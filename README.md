@@ -222,6 +222,7 @@
 ## ~ 2014
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2015|ICLR (Workshop)|Striving for Simplicity: The All Convolutional Net|[Paper](https://arxiv.org/abs/1412.6806), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/190)|
 |2014|arXiv|Explaining and Harnessing Adversarial Examples|[Paper](https://arxiv.org/abs/1412.6572), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/189)|
 |2015|ICLR (Oral)|Qualitatively characterizing neural network optimization problems|[Paper](https://arxiv.org/abs/1412.6544), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/155)|
 |2015|CVPR (Oral)|Understanding Deep Image Representations by Inverting Them|[Paper](https://arxiv.org/abs/1412.0035), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/38)|
