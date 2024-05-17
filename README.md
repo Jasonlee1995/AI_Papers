@@ -10,6 +10,12 @@
 - Personal review, so **don't contain all the contents of the paper**
 
 
+## 2024
+|Year|Conference|Paper|Links|
+|:-:|:-:|:-|:-:|
+|2024|arXiv|Revisiting Feature Prediction for Learning Visual Representations from Video|[Paper](https://arxiv.org/abs/2404.08471), [Official Pytorch Code](https://github.com/facebookresearch/jepa), [Open Review](https://openreview.net/forum?id=WFYbBOEOtv), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/200)|
+
+
 ## 2023
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
