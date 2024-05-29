@@ -112,6 +112,7 @@
 |:-:|:-:|:-|:-:|
 |2020|ICLR|Adversarial AutoAugment|[Paper](https://arxiv.org/abs/1912.11188), [Open Review](https://openreview.net/forum?id=ByxdUySKvS), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/19)|
 |2020|CVPR (Oral)|CNN-generated images are surprisingly easy to spot... for now|[Paper](https://arxiv.org/abs/1912.11035), [Official Pytorch Code](https://github.com/PeterWang512/CNNDetection), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/25)|
+|2019|arXiv|Recurrent Neural Networks (RNNs): A gentle Introduction and Overview|[Paper](https://arxiv.org/abs/1912.05911), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/201)|
 |2020|ICLR (Oral)|Your Classifier is Secretly an Energy-Based Model and You Should Treat it Like One|[Paper](https://arxiv.org/abs/1912.03263), [Official Pytorch Code](https://github.com/wgrathwohl/JEM), [Open Review](https://openreview.net/forum?id=Hkxzx0NtDB), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/91)|
 |2020|ICLR|Fantastic Generalization Measures and Where to Find Them|[Paper](https://arxiv.org/abs/1912.02178), [Open Review](https://openreview.net/forum?id=SJgIPJBFvH), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/119)|
 |2020|ECCV|Faster AutoAugment: Learning Augmentation Strategies using Backpropagation|[Paper](https://arxiv.org/abs/1911.06987), [Official Pytorch Code](https://github.com/moskomule/dda), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/24)|
