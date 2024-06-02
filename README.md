@@ -81,6 +81,7 @@
 |2021|ICASSP|Improved Mask-CTC for Non-Autoregressive End-to-End ASR|[Paper](https://arxiv.org/abs/2010.13270), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/147)|
 |2021|ICLR (Oral)|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale|[Paper](https://arxiv.org/abs/2010.11929), [Official Code](https://github.com/google-research/vision_transformer), [Open Review](https://openreview.net/forum?id=YicbFdNTTy), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/53)|
 |2020|NeurIPS|Energy-based Out-of-distribution Detection|[Paper](https://arxiv.org/abs/2010.03759), [Official Pytorch Code](https://github.com/wetliu/energy_ood), [Open Review](https://papers.nips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/62)|
+|2021|ICLR|Denoising Diffusion Implicit Models|[Paper](https://arxiv.org/abs/2010.02502), [Official Pytorch Code](https://github.com/ermongroup/ddim), [Open Review](https://openreview.net/forum?id=St1giarCHLP), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/202)|
 |2020|EMNLP|Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics|[Paper](https://arxiv.org/abs/2009.10795), [Official Pytorch Code](https://github.com/allenai/cartography), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/89)|
 |2022|CVPR|Estimating Example Difficulty Using Variance of Gradients|[Paper](https://arxiv.org/abs/2008.11600), [Official TF/Pytorch Code](https://github.com/chirag126/VOG), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/116)|
 |2020|NeurIPS (Spotlight)|What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation|[Paper](https://arxiv.org/abs/2008.03703), [Official TF Code](https://github.com/google-research/heldout-influence-estimation), [Open Review](https://papers.nips.cc/paper/2020/hash/1e14bfe2714193e7af5abc64ecbd6b46-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/118)|
@@ -105,6 +106,7 @@
 |2020|ICML|A Simple Framework for Contrastive Learning of Visual Representations|[Paper](https://arxiv.org/abs/2002.05709), [Official TF Code](https://github.com/google-research/simclr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/69)|
 |2021|ICML (Oral)|Characterizing Structural Regularities of Labeled Data in Overparameterized Models|[Paper](https://arxiv.org/abs/2002.03206), [Official Pytorch Code](https://github.com/pluskid/structural-regularity), [Open Review](https://openreview.net/forum?id=3GYfIYvNNhL), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/129)|
 |2020|NeurIPS|Identifying Mislabeled Data using the Area Under the Margin Ranking|[Paper](https://arxiv.org/abs/2001.10528), [Official Pytorch Code](https://github.com/asappresearch/aum), [Open Review](https://proceedings.neurips.cc/paper/2020/hash/c6102b3727b2a7d8b1bb6981147081ef-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/134)|
+
 
 
 ## 2019
