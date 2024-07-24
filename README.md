@@ -32,6 +32,7 @@
 ## 2022
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
+|2023|CVPR|Reproducible scaling laws for contrastive language-image learning|[Paper](https://arxiv.org/abs/2212.07143), [Official Pytorch Code](https://github.com/LAION-AI/scaling-laws-openclip), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/209)|
 |2022|ECCV (Workshop, Oral)|You Only Need a Good Embeddings Extractor to Fix Spurious Correlations|[Paper](https://arxiv.org/abs/2212.06254), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/111)|
 |2023|ICML|Robust Speech Recognition via Large-Scale Weak Supervision|[Paper](https://arxiv.org/abs/2212.04356), [Official Pytorch Code](https://github.com/openai/whisper), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/169)|
 |2023|NeurIPS (Spotlight)|Spuriosity Rankings: Sorting Data to Measure and Mitigate Biases|[Paper](https://arxiv.org/abs/2212.02648), [Open Review](https://openreview.net/forum?id=jSuhnO9QJv), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/185)|
@@ -52,6 +53,7 @@
 |2022|ICLR (Oral)|Domino: Discovering Systematic Errors with Cross-Modal Embeddings|[Paper](https://arxiv.org/abs/2203.14960), [Official Pytorch Code](https://github.com/HazyResearch/domino), [Open Review](https://openreview.net/forum?id=FPCMqjI0jXN), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/192)|
 |2022|CVPR|Long-Tailed Recognition via Weight Balancing|[Paper](https://arxiv.org/abs/2203.14197), [Official Pytorch Code](https://github.com/ShadeAlsha/LTR-weight-balancing), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/81)|
 |2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/abs/2201.06857), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
+
 
 
 ## 2021
