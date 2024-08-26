@@ -236,6 +236,7 @@
 |2016|ACL (Long)|Neural Machine Translation of Rare Words with Subword Units|[Paper](https://arxiv.org/abs/1508.07909), [Official Code](https://github.com/rsennrich/subword-nmt), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/163)|
 |2016|AAAI (Oral)|Character-Aware Neural Language Models|[Paper](https://arxiv.org/abs/1508.06615), [Official Code](https://github.com/yoonkim/lstm-char-cnn), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/162)|
 |2016|ICASSP|End-to-End Attention-based Large Vocabulary Speech Recognition|[Paper](https://arxiv.org/abs/1508.04395), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/133)|
+|2015|ICCV|Convolutional Color Constancy|[Paper](https://arxiv.org/abs/1507.00410), [Summary](summary_link)|
 |2015|ICML (Workshop)|Understanding Neural Networks Through Deep Visualization|[Paper](https://arxiv.org/abs/1506.06579), [Official Code](https://github.com/yosinski/deep-visualization-toolbox), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/191)|
 |2015|NIPS (Spotlight)|Spatial Transformer Networks|[Paper](https://arxiv.org/abs/1506.02025), [Open Review](https://papers.nips.cc/paper/2015/hash/33ceb07bf4eeb3da587e268d663aba1a-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/36)|
 |2015|NIPS|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[Paper](https://arxiv.org/abs/1506.01497), [Official Code](https://github.com/rbgirshick/py-faster-rcnn), [Open Review](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/30)|
@@ -270,6 +271,7 @@
 |2013|NIPS|Distributed Representations of Words and Phrases and their Compositionality|[Paper](https://arxiv.org/abs/1310.4546), [Official Code](https://code.google.com/archive/p/word2vec/), [Open Review](https://papers.nips.cc/paper_files/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/128)|
 |2013|ICLR (Workshop)|Efficient Estimation of Word Representations in Vector Space|[Paper](https://arxiv.org/abs/1301.3781), [Official Code](https://code.google.com/archive/p/word2vec/), [Open Review](https://openreview.net/forum?id=idpCdOWtqXd60), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/127)|
 |2012|NIPS (Spotlight)|ImageNet Classification with Deep Convolutional Neural Networks|[Paper](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/1)|
+
 
 
 Format : |20xx|Conference (Oral Spotlight Workshop)|Paper|[Paper](paper_link), [Official TF/Pytorch/JAX Code](official_code_link), [Open Review](openreview_link), [Summary](summary_link)|
