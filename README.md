@@ -201,6 +201,7 @@
 |2017|arXiv|Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour|[Paper](https://arxiv.org/abs/1706.02677), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/137)|
 |2017|NIPS (Oral)|Train longer, generalize better: closing the generalization gap in large batch training of neural networks|[Paper](https://arxiv.org/abs/1705.08741), [Official Pytorch Code](https://github.com/eladhoffer/bigBatch), [Open Review](https://papers.nips.cc/paper/2017/hash/a5e0ff62be0b08456fc7f1e88812af3d-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/74)|
 |2016|NIPS|Understanding the Effective Receptive Field in Deep Convolutional Neural Networks|[Paper](https://arxiv.org/abs/1701.04128), [Open Review](https://papers.nips.cc/paper/2016/hash/c8067ad1937f728f51288b3eb986afaa-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/37)|
+|2017|CVPR (Oral)|FC4: Fully Convolutional Color Constancy with Confidence-weighted Pooling|[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.html), [Official TF Code](https://github.com/yuanming-hu/fc4), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/212)|
 
 
 ## 2016
