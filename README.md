@@ -98,6 +98,7 @@
 |2020|NeurIPS|Learning from Failure: Training Debiased Classifier from Biased Classifier|[Paper](https://arxiv.org/abs/2007.02561), [Official Pytorch Code](https://github.com/alinlab/LfF), [Open Review](https://papers.nips.cc/paper/2020/hash/eddc3427c5d77843c2253f1e799fe933-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/56)|
 |2020|INTERSPEECH|Spot the conversation: speaker diarisation in the wild|[Paper](https://arxiv.org/abs/2007.01216), [Official Code](https://github.com/joonson/voxconverse), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/97)|
 |2020|NeurIPS|Early-Learning Regularization Prevents Memorization of Noisy Labels|[Paper](https://arxiv.org/abs/2007.00151), [Official Pytorch Code](https://github.com/shengliu66/ELR), [Open Review](https://papers.nips.cc/paper/2020/hash/ea89621bee7c88b2c5be6681c8ef4906-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/92)|
+|2020|NeurIPS (Spotlight)|Object-Centric Learning with Slot Attention|[Paper](https://arxiv.org/abs/2006.15055), [Official TF Code](https://github.com/google-research/google-research/tree/master/slot_attention), [Open Review](https://papers.nips.cc/paper_files/paper/2020/hash/8511df98c02ab60aea1b2356c013bc0f-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/213)|
 |2020|NeurIPS|Denoising Diffusion Probabilistic Models|[Paper](https://arxiv.org/abs/2006.11239), [Official TF Code](https://github.com/hojonathanho/diffusion), [Open Review](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/195)|
 |2020|NeurIPS (Spotlight)|What Do Neural Networks Learn When Trained With Random Labels?|[Paper](https://arxiv.org/abs/2006.10455), [Open Review](https://papers.nips.cc/paper_files/paper/2020/hash/e4191d610537305de1d294adb121b513-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/177)|
 |2020|INTERSPEECH|Multi-Encoder-Decoder Transformer for Code-Switching Speech Recognition|[Paper](https://arxiv.org/abs/2006.10414), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/144)|
@@ -115,7 +116,6 @@
 |2020|ICML|A Simple Framework for Contrastive Learning of Visual Representations|[Paper](https://arxiv.org/abs/2002.05709), [Official TF Code](https://github.com/google-research/simclr), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/69)|
 |2021|ICML (Oral)|Characterizing Structural Regularities of Labeled Data in Overparameterized Models|[Paper](https://arxiv.org/abs/2002.03206), [Official Pytorch Code](https://github.com/pluskid/structural-regularity), [Open Review](https://openreview.net/forum?id=3GYfIYvNNhL), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/129)|
 |2020|NeurIPS|Identifying Mislabeled Data using the Area Under the Margin Ranking|[Paper](https://arxiv.org/abs/2001.10528), [Official Pytorch Code](https://github.com/asappresearch/aum), [Open Review](https://proceedings.neurips.cc/paper/2020/hash/c6102b3727b2a7d8b1bb6981147081ef-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/134)|
-
 
 
 ## 2019
