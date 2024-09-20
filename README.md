@@ -54,6 +54,7 @@
 |2023|ICLR (Spotlight)|Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations|[Paper](https://arxiv.org/abs/2204.02937), [Official Pytorch Code](https://github.com/PolinaKirichenko/deep_feature_reweighting), [Open Review](https://openreview.net/forum?id=Zb6c8A-Fghk), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/161)|
 |2022|ICLR (Oral)|Domino: Discovering Systematic Errors with Cross-Modal Embeddings|[Paper](https://arxiv.org/abs/2203.14960), [Official Pytorch Code](https://github.com/HazyResearch/domino), [Open Review](https://openreview.net/forum?id=FPCMqjI0jXN), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/192)|
 |2022|CVPR|Long-Tailed Recognition via Weight Balancing|[Paper](https://arxiv.org/abs/2203.14197), [Official Pytorch Code](https://github.com/ShadeAlsha/LTR-weight-balancing), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/81)|
+|2022|CVPR (Oral)|Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection|[Paper](https://arxiv.org/abs/2203.12208), [Official Pytorch Code](https://github.com/liangchen527/SLADD), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/217)|
 |2022|arXiv|RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training|[Paper](https://arxiv.org/abs/2201.06857), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/49)|
 
 
