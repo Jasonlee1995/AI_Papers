@@ -81,6 +81,7 @@
 |2021|INTERSPEECH (Oral)|SPGISpeech: 5,000 hours of transcribed financial audio for fully formatted end-to-end speech recognition|[Paper](https://arxiv.org/abs/2104.02014), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/107)|
 |2021|CVPR|Scale-aware Automatic Augmentation for Object Detection|[Paper](https://arxiv.org/abs/2103.17220), [Official Pytorch Code](https://github.com/dvlab-research/SA-AutoAug), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/27)|
 |2021|ICML (Spotlight)|Barlow Twins: Self-Supervised Learning via Redundancy Reduction|[Paper](https://arxiv.org/abs/2103.03230), [Official Pytorch Code](https://github.com/facebookresearch/barlowtwins), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/54)|
+|2021|ICML (Oral)|Learning Transferable Visual Models From Natural Language Supervision|[Paper](https://arxiv.org/abs/2103.00020), [Official Pytorch Code](https://github.com/OpenAI/CLIP), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/216)|
 |2021|ICML (Spotlight)|Improved Denoising Diffusion Probabilistic Models|[Paper](https://arxiv.org/abs/2102.09672), [Official Pytorch Code](https://github.com/openai/improved-diffusion), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/203)|
 |2021|ICML (Oral)|Delving into Deep Imbalanced Regression|[Paper](https://arxiv.org/abs/2102.09554), [Official Pytorch Code](https://github.com/YyzHarry/imbalanced-regression), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/85)|
 
