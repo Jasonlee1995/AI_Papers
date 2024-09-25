@@ -84,6 +84,7 @@
 |2021|ICML (Oral)|Learning Transferable Visual Models From Natural Language Supervision|[Paper](https://arxiv.org/abs/2103.00020), [Official Pytorch Code](https://github.com/OpenAI/CLIP), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/216)|
 |2021|ICML (Spotlight)|Improved Denoising Diffusion Probabilistic Models|[Paper](https://arxiv.org/abs/2102.09672), [Official Pytorch Code](https://github.com/openai/improved-diffusion), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/203)|
 |2021|ICML (Oral)|Delving into Deep Imbalanced Regression|[Paper](https://arxiv.org/abs/2102.09554), [Official Pytorch Code](https://github.com/YyzHarry/imbalanced-regression), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/85)|
+|2021|ICML (Oral)|Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision|[Paper](https://arxiv.org/abs/2102.05918), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/218)|
 
 
 ## 2020
