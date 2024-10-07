@@ -64,6 +64,7 @@
 |:-:|:-:|:-|:-:|
 |2022|CVPR|PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures|[Paper](https://arxiv.org/abs/2112.05135), [Official Pytorch Code](https://github.com/andyzoujm/pixmix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/61)|
 |2022|ICASSP|Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization|[Paper](https://arxiv.org/abs/2111.15016), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/152)|
+|2021|arXiv|Florence: A New Foundation Model for Computer Vision|[Paper](https://arxiv.org/abs/2111.11432), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/220)|
 |2022|CVPR|SimMIM: A Simple Framework for Masked Image Modeling|[Paper](https://arxiv.org/abs/2111.09886), [Official Pytorch Code](https://github.com/microsoft/SimMIM), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/150)|
 |2021|NeurIPS Datasets and Benchmarks|The People's Speech: A Large-Scale Diverse English Speech Recognition Dataset for Commercial Usage|[Paper](https://arxiv.org/abs/2111.09344), [Official Pytorch Code](https://github.com/mlcommons/peoples-speech), [Open Review](https://openreview.net/forum?id=R8CwidgJ0yT), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/103)|
 |2022|CVPR (Oral)|Masked Autoencoders Are Scalable Vision Learners|[Paper](https://arxiv.org/abs/2111.06377), [Official Pytorch Code](https://github.com/facebookresearch/mae), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/148)|
