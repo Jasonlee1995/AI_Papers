@@ -63,6 +63,7 @@
 |Year|Conference|Paper|Links|
 |:-:|:-:|:-|:-:|
 |2022|CVPR|PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures|[Paper](https://arxiv.org/abs/2112.05135), [Official Pytorch Code](https://github.com/andyzoujm/pixmix), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/61)|
+|2022|CVPR|FLAVA: A Foundational Language And Vision Alignment Model|[Paper](https://arxiv.org/abs/2112.04482), [Official Pytorch Code](https://github.com/facebookresearch/multimodal/tree/main/examples/flava), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/221)|
 |2022|ICASSP|Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization|[Paper](https://arxiv.org/abs/2111.15016), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/152)|
 |2021|arXiv|Florence: A New Foundation Model for Computer Vision|[Paper](https://arxiv.org/abs/2111.11432), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/220)|
 |2022|CVPR|SimMIM: A Simple Framework for Masked Image Modeling|[Paper](https://arxiv.org/abs/2111.09886), [Official Pytorch Code](https://github.com/microsoft/SimMIM), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/150)|
