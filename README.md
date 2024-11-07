@@ -186,6 +186,7 @@
 |2018|ACL (Long)|Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates|[Paper](https://arxiv.org/abs/1804.10959), [Official Code](https://github.com/google/sentencepiece), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/166)|
 |2018|NeurIPS (Spotlight)|Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs|[Paper](https://arxiv.org/abs/1802.10026), [Official Pytorch Code](https://github.com/timgaripov/dnn-mode-connectivity), [Open Review](https://papers.nips.cc/paper/2018/hash/be3087e74e9100d4bc4c6268cdbe8456-Abstract.html), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/115)|
 |2019|CVPR (Oral)|ArcFace: Additive Angular Margin Loss for Deep Face Recognition|[Paper](https://arxiv.org/abs/1801.07698), [Official Pytorch Code](https://github.com/deepinsight/insightface), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/176)|
+|2018|CVPR|The Unreasonable Effectiveness of Deep Features as a Perceptual Metric|[Paper](https://arxiv.org/abs/1801.03924), [Official Pytorch Code](https://github.com/richzhang/PerceptualSimilarity), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/226)|
 
 
 ## 2017
