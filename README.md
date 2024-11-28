@@ -28,7 +28,9 @@
 |2023|INTERSPEECH|Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition|[Paper](https://arxiv.org/abs/2306.05279), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/159)|
 |2023|NeurIPS Datasets and Benchmarks (Spotlight)|Stable Bias: Evaluating Societal Representations in Diffusion Models|[Paper](https://arxiv.org/abs/2303.11408), [Open Review](https://openreview.net/forum?id=qVXYU3F017), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/183)|
 |2023|CVPR|Towards Universal Fake Image Detectors that Generalize Across Generative Models|[Paper](https://arxiv.org/abs/2302.10174), [Official Pytorch Code](https://github.com/WisconsinAIVision/UniversalFakeDetect), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/215)|
+|2023|NeurIPS|SEGA: Instructing Text-to-Image Models using Semantic Guidance|[Paper](https://arxiv.org/abs/2301.12247), [Official Pytorch Code](https://huggingface.co/docs/diffusers/api/pipelines/semantic_stable_diffusion), [Open Review](https://openreview.net/forum?id=KIPAIy329j), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/229)|
 |2023|CVPR|Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture|[Paper](https://arxiv.org/abs/2301.08243), [Official Pytorch Code](https://github.com/facebookresearch/ijepa), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/199)|
+
 
 
 ## 2022
