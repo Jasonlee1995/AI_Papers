@@ -23,6 +23,7 @@
 |:-:|:-:|:-|:-:|
 |2024|CVPR (Highlight)|CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation|[Paper](https://arxiv.org/abs/2311.18775), [Official Pytorch Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/210)|
 |2024|CVPR|Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation|[Paper](https://arxiv.org/abs/2311.17216), [Official Pytorch Code](https://github.com/hangligit/InterpretDiffusion), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/228)|
+|2024|ICLR (Spotlight)|Ferret: Refer and Ground Anything Anywhere at Any Granularity|[Paper](https://arxiv.org/abs/2310.07704), [Official Pytorch Code](https://github.com/apple/ml-ferret), [Open Review](https://openreview.net/forum?id=2msbbX3ydD), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/230)|
 |2024|ICLR (Spotlight)|Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks|[Paper](https://arxiv.org/abs/2309.17002), [Open Review](https://openreview.net/forum?id=TjhUtloBZU), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/184)|
 |2023|INTERSPEECH|Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition|[Paper](https://arxiv.org/abs/2307.05956), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/160)|
 |2023|INTERSPEECH|Language-specific Acoustic Boundary Learning for Mandarin-English Code-switching Speech Recognition|[Paper](https://arxiv.org/abs/2306.05279), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/159)|
@@ -30,7 +31,6 @@
 |2023|CVPR|Towards Universal Fake Image Detectors that Generalize Across Generative Models|[Paper](https://arxiv.org/abs/2302.10174), [Official Pytorch Code](https://github.com/WisconsinAIVision/UniversalFakeDetect), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/215)|
 |2023|NeurIPS|SEGA: Instructing Text-to-Image Models using Semantic Guidance|[Paper](https://arxiv.org/abs/2301.12247), [Official Pytorch Code](https://huggingface.co/docs/diffusers/api/pipelines/semantic_stable_diffusion), [Open Review](https://openreview.net/forum?id=KIPAIy329j), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/229)|
 |2023|CVPR|Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture|[Paper](https://arxiv.org/abs/2301.08243), [Official Pytorch Code](https://github.com/facebookresearch/ijepa), [Summary](https://github.com/Jasonlee1995/AI_Papers/issues/199)|
-
 
 
 ## 2022
